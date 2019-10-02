@@ -251,7 +251,7 @@ So following these steps I calculated the Mean Values and the STD's.
 
 ## Web Page
 
-As for the web page, I used the code from [a react exaple on git](https://github.com/ahfarmer/emoji-search.git) and I changed the content using test32.py and deploy it using git pages.
+As for the web page, I used the code from [a react exaple on git](https://github.com/ahfarmer/emoji-search.git) and I changed the content using test32.py and deploy it using git pages. Every day after the Expected date of release the Probability of Grade's Release is growing above 50%.
 
 ## Conclusion
 
