@@ -205,7 +205,7 @@ def Repeat_Idea ():
 
 Then we created and upload data to data base with project2.py which looked like this
 
-![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyrakakis/Lessons/master/path/to/img.png)
+![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyriakakis/Lessons/master/Images/Database.png)
 
 
 ## Calculating Mean and STD (test.py)
@@ -245,7 +245,7 @@ The naive way to do this is by adding n times the latest element and n/2 the sec
 
 But instead I took the values taking a normal random variable with mean on the current value for n times.
 
-![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyrakakis/Lessons/master/path/to/img.png)
+![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyriakakis/Lessons/master/Images/With_Randomize.png)
 
 So we following these steps I calculated the Mean Values and the STD's.
 
