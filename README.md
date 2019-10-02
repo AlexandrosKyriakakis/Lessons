@@ -240,7 +240,7 @@ def Aux_Series (lista):
 The naive way to do this is by adding n times the latest element and n/2 the second lates etc.
 
 
-![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyrakakis/Lessons/master/path/to/img.png)
+![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyriakakis/Lessons/master/Images/Without_Randomize.png)
 
 
 But instead I took the values taking a normal random variable with mean on the current value for n times.
