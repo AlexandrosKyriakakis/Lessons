@@ -255,6 +255,6 @@ As for the web page, I copied the code from [a react exaple on git](https://gith
 
 ## Conclusion
 
-This project's inner purpose was to get comfortable with python and it's libraries, trying we scrapping and make something usefull for my impatient classmates...
+Project's inner purpose was to get comfortable with python and it's libraries, trying web scrapping and make something usefull for my impatient classmates...
 
 Have Fun!
