@@ -1,0 +1,640 @@
+1       Days took:  1 
+ Common Words:  ['ηλεκτρικες', 'μετρησεις', 'ηλεκτρικες', 'μετρησεις', 'ηλεκτρικες', 'μετρησεις'] 
+ Number of common letters:  57 
+ Date of exam:  [11, 9, 2017] 
+ Date of grades release:  [12, 9, 2017] 
+ ['ηλεκτρικες', 'μετρησεις', 'ηλ', 'αμφ', 'αιθ', 'ηλεκτρικες', 'μετρησεις', 'κλασσικες', 'ηλεκτρικες', 'μετρησεις', 'ηλ', 'αιθ'] 
+ ['ηλεκτρικες', 'μετρησεις', 'mycourses', 'παλιοι', 'νεοι', 'βελτιωσειςνεοι', 'baumetrpdf', 'μεταφορτωθηκε'] 
+
+2       Days took:  10 
+ Common Words:  ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων'] 
+ Number of common letters:  51 
+ Date of exam:  [29, 9, 2017] 
+ Date of grades release:  [9, 10, 2017] 
+ ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων', 'υλικων', 'ηλ', 'αιθ'] 
+ ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων', 'επιδειξη', 'γραπτων', 'τριτη'] 
+
+3       Days took:  20 
+ Common Words:  ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας'] 
+ Number of common letters:  50 
+ Date of exam:  [1, 9, 2017] 
+ Date of grades release:  [21, 9, 2017] 
+ ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας', 'ηλ', 'αιθ'] 
+ ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας', 'mycourses'] 
+
+4       Days took:  11 
+ Common Words:  ['εισαγωγικο', 'εργαστηριο', 'ηλεκτρονικης', 'τηλεπικοινωνιων'] 
+ Number of common letters:  47 
+ Date of exam:  [29, 9, 2017] 
+ Date of grades release:  [10, 10, 2017] 
+ ['εισαγωγικο', 'εργαστηριο', 'ηλεκτρονικης', 'τηλεπικοινωνιων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['εισαγωγικο', 'εργαστηριο', 'ηλεκτρονικης', 'τηλεπικοινωνιων', 'ου', 'εξαμηνου', 'mycourses'] 
+
+5       Days took:  96 
+ Common Words:  ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων'] 
+ Number of common letters:  38 
+ Date of exam:  [22, 9, 2017] 
+ Date of grades release:  [28, 12, 2017] 
+ ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων', 'σελιδα', 'του', 'μαθηματοςπρογραμματιστικες', 'τεχνικες', 'mycoursesμπορειτε'] 
+
+6       Days took:  16 
+ Common Words:  ['ιστορια', 'επιστημονικων', 'φιλοσοφικων', 'ιδεων'] 
+ Number of common letters:  36 
+ Date of exam:  [5, 9, 2017] 
+ Date of grades release:  [21, 9, 2017] 
+ ['ιστορια', 'επιστημονικων', 'φιλοσοφικων', 'ιδεων', 'ηλ', 'αμφ'] 
+ ['ιστορια', 'φιλοσοφικων', 'επιστημονικων', 'ιδεων', 'mycourses'] 
+
+7       Days took:  21 
+ Common Words:  ['διοικηση', 'παραγωγης', 'συστηματων', 'υπηρεσιων'] 
+ Number of common letters:  36 
+ Date of exam:  [5, 9, 2017] 
+ Date of grades release:  [26, 9, 2017] 
+ ['διοικηση', 'παραγωγης', 'συστηματων', 'υπηρεσιων', 'ηλ', 'αιθ'] 
+ ['διοικηση', 'παραγωγης', 'συστηματων', 'υπηρεσιων', 'site'] 
+
+8       Days took:  18 
+ Common Words:  ['συστηματα', 'χρηματοοικονομικης', 'διοικησης'] 
+ Number of common letters:  36 
+ Date of exam:  [19, 9, 2017] 
+ Date of grades release:  [7, 10, 2017] 
+ ['συστηματα', 'χρηματοοικονομικης', 'διοικησης', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'χρηματοοικονομικης', 'διοικησης', 'site'] 
+
+9       Days took:  9 
+ Common Words:  ['εργαστηριο', 'μικρουπολογιστων', 'εργαστηριο'] 
+ Number of common letters:  36 
+ Date of exam:  [22, 9, 2017] 
+ Date of grades release:  [1, 10, 2017] 
+ ['εργαστηριο', 'μικρουπολογιστων', 'εργαστηριο', 'κατα', 'ομαδες'] 
+ ['εργαστηριο', 'μικρουπολογιστων', 'mycourses', 'κι', 'εδω', 'mlabpdf', 'μεταφορτωθηκε'] 
+
+10       Days took:  24 
+ Common Words:  ['μιγαδικες', 'εξισωσεις', 'μερικες', 'παραγωγους'] 
+ Number of common letters:  35 
+ Date of exam:  [26, 9, 2017] 
+ Date of grades release:  [20, 10, 2017] 
+ ['μιγαδικες', 'συναρτησεις', 'εξισωσεις', 'μερικες', 'παραγωγους', 'ηλ', 'αμφ'] 
+ ['μιγαδικες', 'συναρτησειςδιαφορικες', 'εξισωσεις', 'μερικες', 'παραγωγους', 'mycourses', 'mde', 'migadikespdf'] 
+
+11       Days took:  15 
+ Common Words:  ['συστηματα', 'ειδικων', 'ηλεκτρικων', 'κινητηρων'] 
+ Number of common letters:  35 
+ Date of exam:  [28, 9, 2017] 
+ Date of grades release:  [13, 10, 2017] 
+ ['συστηματα', 'ειδικων', 'ηλεκτρικων', 'κινητηρων', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'ειδικων', 'ηλεκτρικων', 'κινητηρων', 'συστηματα', 'ελεγχου', 'ηλεκτρικων', 'μηχανων'] 
+
+12       Days took:  32 
+ Common Words:  ['προσομοιωση', 'φυσιολογικων', 'συστηματων'] 
+ Number of common letters:  33 
+ Date of exam:  [12, 9, 2017] 
+ Date of grades release:  [14, 10, 2017] 
+ ['προσομοιωση', 'φυσιολογικων', 'συστηματων', 'ηλ', 'αιθ'] 
+ ['προσομοιωση', 'φυσιολογικων', 'συστηματων', 'ι', 'mycourses'] 
+
+13       Days took:  40 
+ Common Words:  ['εισαγωγη', 'σχεδιαση', 'συστηματων', 'vlsi'] 
+ Number of common letters:  30 
+ Date of exam:  [11, 9, 2017] 
+ Date of grades release:  [21, 10, 2017] 
+ ['εισαγωγη', 'σχεδιαση', 'συστηματων', 'vlsi', 'ηλ', 'αιθ'] 
+ ['εισαγωγη', 'σχεδιαση', 'συστηματων', 'vlsi', 'mycourses', 'httpmycoursesntuagrcoursesece'] 
+
+14       Days took:  40 
+ Common Words:  ['επιδοση', 'υπολογιστικων', 'συστηματων'] 
+ Number of common letters:  30 
+ Date of exam:  [8, 9, 2017] 
+ Date of grades release:  [18, 10, 2017] 
+ ['επιδοση', 'υπολογιστικων', 'συστηματων', 'ηλ', 'αιθ'] 
+ ['επιδοση', 'υπολογιστικων', 'συστηματων', 'mycourses', 'κι', 'εδω', 'pebnonamespdf', 'μεταφορτωθηκε'] 
+
+15       Days took:  13 
+ Common Words:  ['συστηματα', 'διαμορφωσης', 'μεταδοσης'] 
+ Number of common letters:  29 
+ Date of exam:  [28, 8, 2017] 
+ Date of grades release:  [11, 9, 2017] 
+ ['συστηματα', 'διαμορφωσης', 'μεταδοσης', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'διαμορφωσης', 'μεταδοσης'] 
+
+16       Days took:  33 
+ Common Words:  ['δομη', 'ηλεκτρικες', 'ιδιοτητες', 'υλικων'] 
+ Number of common letters:  29 
+ Date of exam:  [6, 9, 2017] 
+ Date of grades release:  [9, 10, 2017] 
+ ['δομη', 'ηλεκτρικες', 'ιδιοτητες', 'υλικων', 'ηλ', 'αμφ', 'αιθ', 'εισαγωγη', 'υλικα', 'ηλ', 'αιθ'] 
+ ['δομη', 'ηλεκτρικες', 'ιδιοτητες', 'υλικων', 'ου', 'εξαμηνου', 'mycourses', 'httpmycoursesntuagrcoursesecedocumentcfeedeebeffeeadepdf'] 
+
+17       Days took:  14 
+ Common Words:  ['οικονομικη', 'αναλυση', 'επιχειρησεων'] 
+ Number of common letters:  29 
+ Date of exam:  [7, 9, 2017] 
+ Date of grades release:  [21, 9, 2017] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων', 'ηλ', 'αμφ'] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων'] 
+
+18       Days took:  50 
+ Common Words:  ['εργαστηριο', 'ψηφιακων', 'συστηματων'] 
+ Number of common letters:  28 
+ Date of exam:  [6, 9, 2017] 
+ Date of grades release:  [26, 10, 2017] 
+ ['εργαστηριο', 'ψηφιακων', 'συστηματων', 'ηλ', 'εργ', 'ηλεκτρονικης'] 
+ ['εργαστηριο', 'ψηφιακων', 'συστηματων', 'στον', 'αρχιμηδη'] 
+
+19       Days took:  40 
+ Common Words:  ['διοικηση', 'ψηφιακης', 'επιχειρησης'] 
+ Number of common letters:  27 
+ Date of exam:  [12, 9, 2017] 
+ Date of grades release:  [22, 10, 2017] 
+ ['διοικηση', 'ψηφιακης', 'επιχειρησης', 'ηλ', 'αιθ'] 
+ ['διοικηση', 'ψηφιακης', 'επιχειρησης', 'ροη', 'ο', 'ο', 'εξαμηνο', 'σε'] 
+
+20       Days took:  32 
+ Common Words:  ['παραγωγη', 'ηλεκτρικης', 'ενεργειας'] 
+ Number of common letters:  27 
+ Date of exam:  [28, 9, 2017] 
+ Date of grades release:  [30, 10, 2017] 
+ ['παραγωγη', 'ηλεκτρικης', 'ενεργειας', 'ηλ', 'αμφ'] 
+ ['παραγωγη', 'ηλεκτρικης', 'ενεργειας'] 
+
+21       Days took:  15 
+ Common Words:  ['εισαγωγη', 'στις', 'τηλεπικοινωνιες'] 
+ Number of common letters:  27 
+ Date of exam:  [30, 8, 2017] 
+ Date of grades release:  [15, 9, 2017] 
+ ['εισαγωγη', 'στις', 'τηλεπικοινωνιες', 'ηλ', 'αιθ'] 
+ ['εισαγωγη', 'στις', 'τηλεπικοινωνιες', 'παλιο', 'μαθημα', 'ου', 'εξαμηνου', 'mycourses'] 
+
+22       Days took:  9 
+ Common Words:  ['αναλυση', 'γραμμικων', 'κυκλωματων'] 
+ Number of common letters:  26 
+ Date of exam:  [26, 9, 2017] 
+ Date of grades release:  [5, 10, 2017] 
+ ['αναλυση', 'γραμμικων', 'κυκλωματων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['αναρτηση', 'αποτελεσματων', 'επιδειξη', 'γραπτων', 'μαθημα', 'αναλυση', 'γραμμικων', 'κυκλωματων'] 
+
+23       Days took:  41 
+ Common Words:  ['συστηματα', 'μικρουπολογιστων'] 
+ Number of common letters:  25 
+ Date of exam:  [19, 9, 2017] 
+ Date of grades release:  [30, 10, 2017] 
+ ['συστηματα', 'μικρουπολογιστων', 'ηλ', 'αμφ'] 
+ ['συστηματα', 'μικρουπολογιστων', 'o', 'my', 'courses'] 
+
+24       Days took:  12 
+ Common Words:  ['συστηματα', 'αξιολογησης', 'εργων'] 
+ Number of common letters:  25 
+ Date of exam:  [26, 9, 2017] 
+ Date of grades release:  [8, 10, 2017] 
+ ['συστηματα', 'αξιολογησης', 'διαχειρησης', 'εργων', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'αξιολογησης', 'διαχειρισης', 'εργων', 'mycourses', 'εδω', 'αναρτηθηκαν', 'κωδικος'] 
+
+25       Days took:  31 
+ Common Words:  ['αρχιτεκτονικη', 'υπολογιστων'] 
+ Number of common letters:  24 
+ Date of exam:  [21, 9, 2017] 
+ Date of grades release:  [22, 10, 2017] 
+ ['αρχιτεκτονικη', 'υπολογιστων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['αρχιτεκτονικη', 'υπολογιστων', 'ου', 'τμημα', 'μωhttpwwwcslabecentuagrcoursesco'] 
+
+26       Days took:  7 
+ Common Words:  ['ασυρματες', 'ζευξεις', 'διαδοση'] 
+ Number of common letters:  23 
+ Date of exam:  [4, 9, 2017] 
+ Date of grades release:  [11, 9, 2017] 
+ ['ασυρματες', 'ζευξεις', 'διαδοση', 'ηλ', 'αμφ'] 
+ ['ασυρματες', 'ζευξεις', 'διαδοση', 'τ', 'ου', 'παλια', 'κτιρια', 'εχουν'] 
+
+27       Days took:  161 
+ Common Words:  ['τεχνικες', 'βελτιστοποιησης'] 
+ Number of common letters:  23 
+ Date of exam:  [25, 9, 2017] 
+ Date of grades release:  [1, 3, 2018] 
+ ['τεχνικες', 'βελτιστοποιησης', 'εφαρμογες', 'ελεγχου', 'ηλ', 'αιθ'] 
+ ['τεχνικες', 'βελτιστοποιησης', 'imgjpg', 'καμια', 'μεταφορτωση', 'ακομη'] 
+
+28       Days took:  15 
+ Common Words:  ['κεντρα', 'ελεγχου', 'ενεργειας'] 
+ Number of common letters:  22 
+ Date of exam:  [7, 9, 2017] 
+ Date of grades release:  [22, 9, 2017] 
+ ['κεντρα', 'ελεγχου', 'ενεργειας', 'ηλ', 'αιθ'] 
+ ['κεντρα', 'ελεγχου', 'ενεργειας', 'ε', 'mycourses'] 
+
+29       Days took:  7 
+ Common Words:  ['ηλεκτρομαγνητικα', 'πεδια', 'β'] 
+ Number of common letters:  22 
+ Date of exam:  [29, 9, 2017] 
+ Date of grades release:  [6, 10, 2017] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'αλ', 'ηλ', 'αμφ', 'αιθ'] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'αδ', 'τμημα', 'ρουμελιωτη', 'mycourses', 'εδω'] 
+
+30       Days took:  64 
+ Common Words:  ['γλωσσες', 'προγραμματισμου'] 
+ Number of common letters:  22 
+ Date of exam:  [14, 9, 2017] 
+ Date of grades release:  [18, 11, 2017] 
+ ['γλωσσες', 'προγραμματισμου', 'ι', 'ηλ', 'αμφ'] 
+ ['γλωσσες', 'προγραμματισμου', 'ιστο', 'moodle', 'εδω'] 
+
+31       Days took:  29 
+ Common Words:  ['βιομηχανικη', 'ηλεκτρονικη'] 
+ Number of common letters:  22 
+ Date of exam:  [29, 8, 2017] 
+ Date of grades release:  [28, 9, 2017] 
+ ['εργαστηριακη', 'βιομηχανικη', 'ηλεκτρονικη', 'ηλ', 'αμφ', 'αιθ'] 
+ ['βιομηχανικη', 'ηλεκτρονικη', 'mycourses'] 
+
+32       Days took:  28 
+ Common Words:  ['μηχανικη', 'στερεου', 'σωματος'] 
+ Number of common letters:  22 
+ Date of exam:  [28, 9, 2017] 
+ Date of grades release:  [26, 10, 2017] 
+ ['μηχανικη', 'κινηματικη', 'δυναμικη', 'του', 'στερεου', 'σωματος', 'ηλ', 'αμφ', 'αιθ'] 
+ ['μηχανικη', 'κινηματικηδυναμικη', 'στερεου', 'σωματος', 'mycourses'] 
+
+33       Days took:  43 
+ Common Words:  ['συστηματα', 'τεχνολογιες'] 
+ Number of common letters:  20 
+ Date of exam:  [12, 9, 2017] 
+ Date of grades release:  [25, 10, 2017] 
+ ['συστηματα', 'τεχνολογιες', 'γνωσης', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'τεχνολογιες', 'γνωσηςhttpmycoursesntuagrcoursesecedocumentseppdf', 'seppdf', 'μεταφορτωθηκε'] 
+
+34       Days took:  35 
+ Common Words:  ['λειτουργικα', 'συστηματα'] 
+ Number of common letters:  20 
+ Date of exam:  [7, 9, 2017] 
+ Date of grades release:  [12, 10, 2017] 
+ ['λειτουργικα', 'συστηματα', 'υπολογιστων', 'ηλ', 'αμφ'] 
+ ['λειτουργικα', 'συστηματα', 'σελιδα', 'του', 'μαθηματος', 'εδω'] 
+
+35       Days took:  4 
+ Common Words:  ['μιγαδικες', 'συναρτησεις'] 
+ Number of common letters:  20 
+ Date of exam:  [5, 9, 2017] 
+ Date of grades release:  [9, 9, 2017] 
+ ['μιγαδικες', 'συναρτησεις', 'ηλ', 'αμφ'] 
+ ['μιγαδικες', 'συναρτησεις', 'mycourses'] 
+
+36       Days took:  23 
+ Common Words:  ['διαφορικες', 'εξισωσεις'] 
+ Number of common letters:  19 
+ Date of exam:  [21, 9, 2017] 
+ Date of grades release:  [14, 10, 2017] 
+ ['διαφορικες', 'εξισωσεις', 'ηλ', 'αμφ'] 
+ ['διαφορικες', 'εξισωσεις', 'παλαιου', 'οδηγου', 'σπουδων', 'ο', 'εξ', 'mycoursesδηλωμενοι'] 
+
+37       Days took:  50 
+ Common Words:  ['στοχαστικα', 'συστηματα'] 
+ Number of common letters:  19 
+ Date of exam:  [25, 9, 2017] 
+ Date of grades release:  [15, 11, 2017] 
+ ['στοχαστικα', 'συστηματα', 'επικοινωνιες', 'ηλ', 'αμφ', 'αιθ'] 
+ ['στοχαστικα', 'συστηματα', 'επικοινωνιεςαπο', 'mycourses'] 
+
+38       Days took:  32 
+ Common Words:  ['διαφορικες', 'εξισωσεις'] 
+ Number of common letters:  19 
+ Date of exam:  [8, 9, 2017] 
+ Date of grades release:  [10, 10, 2017] 
+ ['διαφορικες', 'εξισωσεις', 'ηλ', 'αμφ', 'αιθ'] 
+ ['διαφορικες', 'εξισωσεις', 'mycourses', 'θα', 'γινει', 'επιδειξη', 'γραπτων', 'γραφειο'] 
+
+39       Days took:  13 
+ Common Words:  ['ηλεκτρολογικο', 'σχεδιο'] 
+ Number of common letters:  19 
+ Date of exam:  [19, 9, 2017] 
+ Date of grades release:  [2, 10, 2017] 
+ ['ηλεκτρολογικο', 'σχεδιο', 'ηλ', 'αιθ'] 
+ ['ηλεκτρολογικο', 'σχεδιο', 'mycourseshttpmycoursesntuagrcoursesecedocumentbausxedioepanpdf'] 
+
+40       Days took:  91 
+ Common Words:  ['δικτυα', 'επικοινωνιων'] 
+ Number of common letters:  18 
+ Date of exam:  [13, 9, 2017] 
+ Date of grades release:  [14, 12, 2017] 
+ ['δικτυα', 'επικοινωνιων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['δικτυα', 'επικοινωνιων', 'site', 'του', 'μαθηματος'] 
+
+41       Days took:  38 
+ Common Words:  ['συστηματα', 'διοικησης'] 
+ Number of common letters:  18 
+ Date of exam:  [31, 8, 2017] 
+ Date of grades release:  [9, 10, 2017] 
+ ['συστηματα', 'διοικησης', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'διοικησης', 'site'] 
+
+42       Days took:  35 
+ Common Words:  ['διακριτα', 'μαθηματικα'] 
+ Number of common letters:  18 
+ Date of exam:  [5, 9, 2017] 
+ Date of grades release:  [10, 10, 2017] 
+ ['διακριτα', 'μαθηματικα', 'ηλ', 'αμφ'] 
+ ['διακριτα', 'μαθηματικα', 'ου', 'εξαμηνου', 'softlab'] 
+
+43       Days took:  18 
+ Common Words:  ['διαδικτυο', 'εφαρμογες'] 
+ Number of common letters:  18 
+ Date of exam:  [11, 9, 2017] 
+ Date of grades release:  [29, 9, 2017] 
+ ['διαδικτυο', 'εφαρμογες', 'ηλ', 'αιθ'] 
+ ['διαδικτυο', 'εφαρμογες', 'httpcoursescnntuagrcourseviewphpid', 'εδω'] 
+
+44       Days took:  26 
+ Common Words:  ['συστηματα', 'αποφασεων'] 
+ Number of common letters:  18 
+ Date of exam:  [25, 9, 2017] 
+ Date of grades release:  [21, 10, 2017] 
+ ['συστηματα', 'αποφασεων', 'ηλ', 'αμφ'] 
+ ['συστηματα', 'αποφασεων'] 
+
+45       Days took:  12 
+ Common Words:  ['τεχνικες', 'προβλεψεων'] 
+ Number of common letters:  18 
+ Date of exam:  [30, 8, 2017] 
+ Date of grades release:  [12, 9, 2017] 
+ ['τεχνικες', 'προβλεψεων', 'ηλ', 'αιθ'] 
+ ['τεχνικες', 'προβλεψεων', 'εδω', 'httpwwwfsugrelcebcebceb'] 
+
+46       Days took:  48 
+ Common Words:  ['τεχνολογια', 'φωτισμου'] 
+ Number of common letters:  18 
+ Date of exam:  [4, 9, 2017] 
+ Date of grades release:  [22, 10, 2017] 
+ ['τεχνολογια', 'φωτισμου', 'ηλ', 'αμφ'] 
+ ['τεχνολογια', 'φωτισμου', 'mycourses'] 
+
+47       Days took:  22 
+ Common Words:  ['ηλεκτρικη', 'οικονομια'] 
+ Number of common letters:  18 
+ Date of exam:  [20, 9, 2017] 
+ Date of grades release:  [12, 10, 2017] 
+ ['ηλεκτρικη', 'οικονομια', 'ηλ', 'αμφ'] 
+ ['βγηκε', 'ηλεκτρικη', 'οικονομια', 'εξω', 'γραφειο'] 
+
+48       Days took:  66 
+ Common Words:  ['ηλεκτρομαγνητισμος'] 
+ Number of common letters:  18 
+ Date of exam:  [8, 9, 2017] 
+ Date of grades release:  [14, 11, 2017] 
+ ['εφαρμοσμενος', 'υπολογιστικος', 'ηλεκτρομαγνητισμος', 'ηλ', 'αιθ'] 
+ ['φυσικη', 'ιι', 'ηλεκτρομαγνητισμος', 'mycourses', 'tmhmaapdf', 'μεταφορτωθηκε', 'tmhmabpdf', 'μεταφορτωθηκε'] 
+
+49       Days took:  183 
+ Common Words:  ['σχεδιαση', 'γραμμικων'] 
+ Number of common letters:  17 
+ Date of exam:  [30, 8, 2017] 
+ Date of grades release:  [28, 2, 2018] 
+ ['σχεδιαση', 'γραμμικων', 'κυκλωματων', 'ηλ', 'αμφ'] 
+ ['σχεδιαση', 'γραμμικων', 'imgjpg', 'καμια', 'μεταφορτωση', 'ακομη'] 
+
+50       Days took:  12 
+ Common Words:  ['δικτυα', 'υπολογιστων'] 
+ Number of common letters:  17 
+ Date of exam:  [6, 9, 2017] 
+ Date of grades release:  [18, 9, 2017] 
+ ['δικτυα', 'υπολογιστων', 'ηλ', 'αμφ'] 
+ ['δικτυα', 'υπολογιστων'] 
+
+51       Days took:  17 
+ Common Words:  ['αριθμητικη', 'αναλυση'] 
+ Number of common letters:  17 
+ Date of exam:  [5, 9, 2017] 
+ Date of grades release:  [22, 9, 2017] 
+ ['αριθμητικη', 'αναλυση', 'ηλ', 'αμφ', 'αιθ'] 
+ ['αριθμητικη', 'αναλυση'] 
+
+52       Days took:  64 
+ Common Words:  ['μαθηματικη', 'αναλυση'] 
+ Number of common letters:  17 
+ Date of exam:  [18, 9, 2017] 
+ Date of grades release:  [22, 11, 2017] 
+ ['μαθηματικη', 'αναλυση', 'συναρ', 'πολλων', 'μεταβλ', 'αναλ', 'ηλ', 'αμφ', 'αιθ'] 
+ ['μαθηματικη', 'αναλυση', 'στοιχεια'] 
+
+53       Days took:  78 
+ Common Words:  ['μαθηματικη', 'αναλυση'] 
+ Number of common letters:  17 
+ Date of exam:  [4, 9, 2017] 
+ Date of grades release:  [22, 11, 2017] 
+ ['μαθηματικη', 'αναλυση', 'συναρτησεις', 'μιας', 'μεταβλητης', 'ηλ', 'αμφ', 'αιθ'] 
+ ['μαθηματικη', 'αναλυση', 'στοιχεια'] 
+
+54       Days took:  13 
+ Common Words:  ['πολιτικη', 'οικονομια'] 
+ Number of common letters:  17 
+ Date of exam:  [27, 9, 2017] 
+ Date of grades release:  [10, 10, 2017] 
+ ['πολιτικη', 'οικονομια', 'ηλ', 'αμφ'] 
+ ['πολιτικη', 'οικονομια', 'γραφεια', 'σεμφεανακοινωση', 'στον', 'πινακα', 'αποτελεσματων', 'εγραψεοσοιες'] 
+
+55       Days took:  44 
+ Common Words:  ['ηλεκτρονικα', 'υλικα'] 
+ Number of common letters:  16 
+ Date of exam:  [6, 9, 2017] 
+ Date of grades release:  [20, 10, 2017] 
+ ['ηλεκτρονικα', 'υλικα', 'ηλ', 'αιθ'] 
+ ['εμφανιστηκαν', 'φοιτητικα', 'στοιχεια', 'βαθμοι', 'ηλεκτρονικα', 'υλικα', 'του', 'παλιου'] 
+
+56       Days took:  23 
+ Common Words:  ['οργανωση', 'διοικηση'] 
+ Number of common letters:  16 
+ Date of exam:  [27, 9, 2017] 
+ Date of grades release:  [20, 10, 2017] 
+ ['οργανωση', 'διοικηση', 'ηλ', 'αμφ'] 
+ ['οργανωση', 'διοικηση', 'επαναληπτικη', 'ανακοινωσηpdf', 'μεταφορτωθηκε', 'κυκλωματα', 'τμημα', 'νω'] 
+
+57       Days took:  3 
+ Common Words:  ['βελτιστος', 'ελεγχος'] 
+ Number of common letters:  16 
+ Date of exam:  [11, 9, 2017] 
+ Date of grades release:  [14, 9, 2017] 
+ ['βελτιστος', 'ελεγχος', 'εφαρμογες', 'ηλ', 'αιθ'] 
+ ['βελτιστος', 'ελεγχος', 'φοιτητικα', 'στοιχεια'] 
+
+58       Days took:  18 
+ Common Words:  ['τεχνητη', 'νοημοσυνη'] 
+ Number of common letters:  16 
+ Date of exam:  [28, 9, 2017] 
+ Date of grades release:  [16, 10, 2017] 
+ ['τεχνητη', 'νοημοσυνη', 'ηλ', 'αμφ'] 
+ ['τεχνητη', 'νοημοσυνη', 'mycourses'] 
+
+59       Days took:  28 
+ Common Words:  ['κυματικη', 'κβαντικη'] 
+ Number of common letters:  16 
+ Date of exam:  [21, 9, 2017] 
+ Date of grades release:  [19, 10, 2017] 
+ ['κυματικη', 'κβαντικη', 'ηλ', 'αμφ', 'αιθ'] 
+ ['κυματικη', 'κβαντικη', 'φυσικη', 'mycourses'] 
+
+60       Days took:  45 
+ Common Words:  ['νευρωνικα', 'δικτυα'] 
+ Number of common letters:  15 
+ Date of exam:  [28, 8, 2017] 
+ Date of grades release:  [13, 10, 2017] 
+ ['νευρωνικα', 'δικτυα', 'ευφυη', 'υπολογιστικα', 'συστηματα', 'ηλ', 'αμφ'] 
+ ['νευρωνικα', 'δικτυα', 'mycourses', 'εδω'] 
+
+61       Days took:  10 
+ Common Words:  ['εκτιμηση', 'σηματων'] 
+ Number of common letters:  15 
+ Date of exam:  [1, 9, 2017] 
+ Date of grades release:  [11, 9, 2017] 
+ ['διαμορφωσηφωραση', 'εκτιμηση', 'σηματων', 'ηλ', 'αιθ'] 
+ ['διαμορφωση', 'φωραση', 'εκτιμηση', 'σηματων', 'site', 'του', 'μαθηματος'] 
+
+62       Days took:  62 
+ Common Words:  ['σηματα', 'συστηματα'] 
+ Number of common letters:  15 
+ Date of exam:  [19, 9, 2017] 
+ Date of grades release:  [21, 11, 2017] 
+ ['σηματα', 'συστηματα', 'ηλ', 'αμφ', 'αιθ'] 
+ ['σηματα', 'συστηματα', 'mycourseshttpmycoursesntuagrcoursesecedocumentssgradesexamvpublicpdf', 'ssgradesexamvpublicpdf', 'μεταφορτωθηκε'] 
+
+63       Days took:  12 
+ Common Words:  ['βασεις', 'δεδομενων'] 
+ Number of common letters:  15 
+ Date of exam:  [20, 9, 2017] 
+ Date of grades release:  [2, 10, 2017] 
+ ['βασεις', 'δεδομενων', 'ηλ', 'αιθ'] 
+ ['βασεις', 'δεδομενων'] 
+
+64       Days took:  79 
+ Common Words:  ['λογικη', 'σχεδιαση'] 
+ Number of common letters:  14 
+ Date of exam:  [12, 9, 2017] 
+ Date of grades release:  [1, 12, 2017] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['βγηκε', 'ανακοινωση', 'στον', 'αρχιμηδη', 'αποτελεσματα', 'λογικη', 'σχεδιαση', 'ωστοσο'] 
+
+65       Days took:  268 
+ Common Words:  ['θεωρια', 'δικτυων'] 
+ Number of common letters:  13 
+ Date of exam:  [7, 9, 2017] 
+ Date of grades release:  [30, 5, 2018] 
+ ['θεωρια', 'δικτυων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['διορθωτικο', 'δελτιο', 'βαθμολογιασμαθημα', 'θεωρια', 'δικτυων', 'ο', 'εξαμηνο', 'offtopicξερει'] 
+
+66       Days took:  0 
+ Common Words:  ['ηλεκτρονικη', 'ι'] 
+ Number of common letters:  12 
+ Date of exam:  [27, 9, 2017] 
+ Date of grades release:  [27, 9, 2017] 
+ ['ηλεκτρονικη', 'ι', 'ηλ', 'αμφ', 'αιθ'] 
+ ['ηλεκτρονικη', 'ι', 'ο', 'εξαμηνο', 'mycourses', 'εδω', 'electronicsiseptemberpdf', 'μεταφορτωθηκε'] 
+
+67       Days took:  8 
+ Common Words:  ['ηλεκτρονικης'] 
+ Number of common letters:  12 
+ Date of exam:  [20, 9, 2017] 
+ Date of grades release:  [28, 9, 2017] 
+ ['τεχνολογιες', 'κινητης', 'ηλεκτρονικης', 'υγειας', 'ηλ', 'αιθ'] 
+ ['αποτελεσματα', 'ηλεκτρονικης', 'μεταφορτωθηκε'] 
+
+68       Days took:  8 
+ Common Words:  ['υπολογιστων'] 
+ Number of common letters:  11 
+ Date of exam:  [27, 9, 2017] 
+ Date of grades release:  [5, 10, 2017] 
+ ['ασφαλεια', 'δικτυων', 'υπολογιστων', 'ηλ', 'αιθ'] 
+ ['επιστημη', 'υπολογιστων', 'mycourses'] 
+
+69       Days took:  19 
+ Common Words:  ['εισαγωγη', 'σηε'] 
+ Number of common letters:  11 
+ Date of exam:  [15, 9, 2017] 
+ Date of grades release:  [4, 10, 2017] 
+ ['εισαγωγη', 'συστηματα', 'ηλεκτρικης', 'ενεργειας', 'σηε', 'ηλ', 'αμφ', 'αιθ'] 
+ ['εισαγωγη', 'σηε', 'ακ', 'mycourses', 'apotelesmataesheseptmimapdf', 'μεταφορτωθηκε'] 
+
+70       Days took:  7 
+ Common Words:  ['οργανολογια'] 
+ Number of common letters:  11 
+ Date of exam:  [25, 9, 2017] 
+ Date of grades release:  [2, 10, 2017] 
+ ['βιοιατρικη', 'οργανολογια', 'τεχνικες', 'ηλ', 'αιθ'] 
+ ['οργανολογια', 'mycourses'] 
+
+71       Days took:  75 
+ Common Words:  ['τεχνολογια'] 
+ Number of common letters:  10 
+ Date of exam:  [7, 9, 2017] 
+ Date of grades release:  [22, 11, 2017] 
+ ['φυσικη', 'τεχνολογια', 'χρησεις', 'φωτοβολταικων', 'ηλ', 'αιθ'] 
+ ['τεχνολογια', 'λογισμικουστο', 'mycourses', 'συνημμενοιαν', 'επιθυμειτε', 'να', 'δειτε', 'γραπτο'] 
+
+72       Days took:  35 
+ Common Words:  ['ηλεκτρικες'] 
+ Number of common letters:  10 
+ Date of exam:  [15, 9, 2017] 
+ Date of grades release:  [20, 10, 2017] 
+ ['ηλεκτρικες', 'μετρησεις', 'ηλεκτρονικες', 'ψηφιακες', 'μετρησεις', 'ηλ', 'αιθ'] 
+ ['δομη', 'ηλεκτρικες', 'ιδιοτητες', 'υλικωνδιορθωμενη', 'βαθμολογια', 'mycourses', 'εδωhttpmycoursesntuagrcoursesece'] 
+
+73       Days took:  43 
+ Common Words:  ['αλγοριθμοι'] 
+ Number of common letters:  10 
+ Date of exam:  [29, 8, 2017] 
+ Date of grades release:  [12, 10, 2017] 
+ ['αλγοριθμοι', 'πολυπλοκοτητα', 'ηλ', 'αμφ'] 
+ ['αλγοριθμοι', 'πολυπλοκοτηταμπορειτε', 'να', 'δειτε', 'γραπτα', 'σας', 'να', 'ρωτησετε'] 
+
+74       Days took:  120 
+ Common Words:  ['ρομποτικη'] 
+ Number of common letters:  9 
+ Date of exam:  [8, 9, 2017] 
+ Date of grades release:  [3, 1, 2018] 
+ ['ρομποτικη', 'ι', 'αναλυση', 'ελεγχοςεργαστηριο', 'ηλ', 'αμφ'] 
+ ['ρομποτικη'] 
+
+75       Days took:  39 
+ Common Words:  ['δικτυακος'] 
+ Number of common letters:  9 
+ Date of exam:  [4, 9, 2017] 
+ Date of grades release:  [13, 10, 2017] 
+ ['δικτυακος', 'προγραμματισμος', 'ηλ', 'εργ', 'pc', 'lab'] 
+ ['δικτυακος', 'φοιτητικα', 'στοιχεια'] 
+
+76       Days took:  21 
+ Common Words:  ['εφαρμογες'] 
+ Number of common letters:  9 
+ Date of exam:  [29, 9, 2017] 
+ Date of grades release:  [20, 10, 2017] 
+ ['μη', 'γραμμικα', 'συστηματα', 'ελεγχου', 'εφαρμογες', 'ηλ', 'αιθ'] 
+ ['μου', 'ειπαν', 'οτι', 'εχει', 'βγει', 'αλγεβρα', 'κι', 'εφαρμογες'] 
+
+77       Days took:  64 
+ Common Words:  ['προηγμενα'] 
+ Number of common letters:  9 
+ Date of exam:  [18, 9, 2017] 
+ Date of grades release:  [22, 11, 2017] 
+ ['προηγμενα', 'αρχιτεκτονικης', 'υπολογιστων', 'ηλ', 'αμφ'] 
+ ['προηγμενα', 'αρχιτεκτονικηςhttpwwwcslabntuagrcoursesadvcomparchfilesgradesadvancedcagradessephtml'] 
+
+78       Days took:  67 
+ Common Words:  ['ρομποτικη'] 
+ Number of common letters:  9 
+ Date of exam:  [12, 9, 2017] 
+ Date of grades release:  [19, 11, 2017] 
+ ['ρομποτικη', 'ιι', 'ρομποτικα', 'συστηματα', 'ηλ', 'αιθ'] 
+ ['ρομποτικη', 'roboticsigradesseptpdf', 'μεταφορτωθηκε'] 
+
+79       Days took:  12 
+ Common Words:  ['εισαγωγη'] 
+ Number of common letters:  8 
+ Date of exam:  [22, 9, 2017] 
+ Date of grades release:  [4, 10, 2017] 
+ ['εισαγωγη', 'στον', 'αυτοματο', 'ελεγχο', 'ηλ', 'αμφ', 'αιθ'] 
+ ['εισαγωγη', 'σηε', 'λο', 'mycourses', 'httpmycoursesntuagrcoursesece'] 
+
+80       Days took:  6 
+ Common Words:  ['ευελικτα'] 
+ Number of common letters:  8 
+ Date of exam:  [6, 9, 2017] 
+ Date of grades release:  [12, 9, 2017] 
+ ['ευελικτα', 'συστηματα', 'μεταφορας', 'ηλ', 'αιθ'] 
+ ['εχουν', 'βγει', 'ευελικτα', 'mycourses'] 
+

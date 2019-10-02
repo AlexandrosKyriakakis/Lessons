@@ -1,0 +1,584 @@
+1       Days took:  11 
+ Common Words:  ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων', 'υλικων'] 
+ Number of common letters:  57 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [16, 7, 2019] 
+ ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων', 'υλικων'] 
+ ['ποιοτικος', 'ελεγχος', 'εξοπλισμου', 'βιομηχανικων', 'εγκαταστασεων', 'υλικων', 'students'] 
+
+2       Days took:  92 
+ Common Words:  ['εισαγωγη', 'συστηματα', 'ηλεκτρικης', 'ενεργειας', 'σηε'] 
+ Number of common letters:  39 
+ Date of exam:  [4, 6, 2019] 
+ Date of grades release:  [6, 9, 2019] 
+ ['εισαγωγη', 'συστηματα', 'ηλεκτρικης', 'ενεργειας', 'σηε', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['εισαγωγη', 'συστηματα', 'ηλεκτρικης', 'ενεργειας', 'σηε', 'αποτελεσματα', 'εξετασης', 'ιουνιου'] 
+
+3       Days took:  47 
+ Common Words:  ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'πτυχιω'] 
+ Number of common letters:  38 
+ Date of exam:  [5, 6, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'επι', 'πτυχιω', 'ηλ', 'αιθ'] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'πτυχιω', 'παπαοδυσσεα', 'στον', 'αρχιμηδη'] 
+
+4       Days took:  22 
+ Common Words:  ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων'] 
+ Number of common letters:  38 
+ Date of exam:  [10, 6, 2019] 
+ Date of grades release:  [2, 7, 2019] 
+ ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων', 'επι', 'πτυχιω', 'ηλ', 'αιθ'] 
+ ['προγραμματισμος', 'ηλεκτρονικων', 'υπολογιστων', 'students'] 
+
+5       Days took:  70 
+ Common Words:  ['μεταβατικη', 'κατασταση', 'λειτουργιας', 'μηχανων'] 
+ Number of common letters:  37 
+ Date of exam:  [28, 6, 2019] 
+ Date of grades release:  [8, 9, 2019] 
+ ['ηλεκτρικες', 'μηχανες', 'ιι', 'επι', 'πτυχιω', 'μεταβατικη', 'κατασταση', 'λειτουργιας', 'ηλεκτρ', 'μηχανων', 'ηλ', 'αιθ'] 
+ ['μεταβατικη', 'κατασταση', 'λειτουργιας', 'ηλεκτρικων', 'μηχανων', 'mycourses', 'students', 'εδω'] 
+
+6       Days took:  54 
+ Common Words:  ['δικτυα', 'κινητων', 'προσωπικων', 'επικοινωνιων'] 
+ Number of common letters:  35 
+ Date of exam:  [13, 6, 2019] 
+ Date of grades release:  [7, 8, 2019] 
+ ['δικτυα', 'κινητων', 'προσωπικων', 'επικοινωνιων', 'ηλ', 'αιθ'] 
+ ['δικτυα', 'κινητων', 'προσωπικων', 'επικοινωνιων', 'δ', 'students'] 
+
+7       Days took:  36 
+ Common Words:  ['προηγμενα', 'αρχιτεκτονικης', 'υπολογιστων'] 
+ Number of common letters:  34 
+ Date of exam:  [25, 6, 2019] 
+ Date of grades release:  [31, 7, 2019] 
+ ['προηγμενα', 'αρχιτεκτονικης', 'υπολογιστων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['προηγμενα', 'αρχιτεκτονικης', 'υπολογιστων', 'cslab'] 
+
+8       Days took:  20 
+ Common Words:  ['εργαστηριακη', 'βιομηχανικη', 'ηλεκτρονικη'] 
+ Number of common letters:  34 
+ Date of exam:  [14, 6, 2019] 
+ Date of grades release:  [4, 7, 2019] 
+ ['εργαστηριακη', 'βιομηχανικη', 'ηλεκτρονικη', 'μονο', 'παλαιους', 'φοιτητες', 'ηλ', 'αιθ'] 
+ ['εργαστηριακη', 'βιομηχανικη', 'ηλεκτρονικη', 'επι', 'πτυχιω', 'mycourses'] 
+
+9       Days took:  32 
+ Common Words:  ['θεωρια', 'πιθανοτητων', 'στατιστικη', 'πτυχιω'] 
+ Number of common letters:  33 
+ Date of exam:  [21, 6, 2019] 
+ Date of grades release:  [23, 7, 2019] 
+ ['θεωρια', 'πιθανοτητων', 'στατιστικη', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['θεωρια', 'πιθανοτητων', 'στατιστικη', 'πτυχιω', 'students'] 
+
+10       Days took:  18 
+ Common Words:  ['ηλεκτρομηχανολογικες', 'εγκαταστασεις'] 
+ Number of common letters:  33 
+ Date of exam:  [27, 6, 2019] 
+ Date of grades release:  [15, 7, 2019] 
+ ['βιομηχανικεςκτιριακες', 'ηλεκτρομηχανολογικες', 'εγκαταστασεις', 'ηλ', 'αιθ'] 
+ ['κτιριακες', 'βιομηχανικες', 'ηλεκτρομηχανολογικες', 'εγκαταστασεις', 'students'] 
+
+11       Days took:  11 
+ Common Words:  ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας'] 
+ Number of common letters:  32 
+ Date of exam:  [28, 6, 2019] 
+ Date of grades release:  [9, 7, 2019] 
+ ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας', 'εργ', 'βιοιατρ', 'τεχν', 'διαταξεις', 'ημιαγωγων', 'ηλ', 'αιθ'] 
+ ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας', 'μεταφορτωθηκε'] 
+
+12       Days took:  13 
+ Common Words:  ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'επι', 'πτυχιω'] 
+ Number of common letters:  31 
+ Date of exam:  [7, 6, 2019] 
+ Date of grades release:  [20, 6, 2019] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'επι', 'πτυχιω', 'mycourses'] 
+
+13       Days took:  41 
+ Common Words:  ['λειτουργικα', 'συστηματα', 'υπολογιστων'] 
+ Number of common letters:  31 
+ Date of exam:  [12, 6, 2019] 
+ Date of grades release:  [23, 7, 2019] 
+ ['λειτουργικα', 'συστηματα', 'υπολογιστων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['λειτουργικα', 'συστηματα', 'υπολογιστων', 'mycourses'] 
+
+14       Days took:  4 
+ Common Words:  ['μετρησεις', 'εφαρμογες', 'υψηλων', 'τασεων'] 
+ Number of common letters:  30 
+ Date of exam:  [10, 6, 2019] 
+ Date of grades release:  [14, 6, 2019] 
+ ['μετρησεις', 'εφαρμογες', 'υψηλων', 'τασεων', 'ηλ', 'αμφ'] 
+ ['μετρησεις', 'εφαρμογες', 'υψηλων', 'τασεων', 'μεταφορτωθηκε'] 
+
+15       Days took:  48 
+ Common Words:  ['εποπτεια', 'διαχειριση', 'ενεργειακων'] 
+ Number of common letters:  29 
+ Date of exam:  [21, 6, 2019] 
+ Date of grades release:  [9, 8, 2019] 
+ ['εποπτεια', 'διαχειριση', 'ενεργειακων', 'συστηματων', 'ηλ', 'αιθ'] 
+ ['εποπτεια', 'διαχειριση', 'ενεργειακων', 'συστηματωνστο', 'mycourses'] 
+
+16       Days took:  7 
+ Common Words:  ['οικονομικη', 'αναλυση', 'επιχειρησεων'] 
+ Number of common letters:  29 
+ Date of exam:  [3, 7, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων', 'ηλ', 'αμφ'] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων'] 
+
+17       Days took:  22 
+ Common Words:  ['υπολογισιμοτητα', 'πολυπλοκοτητα'] 
+ Number of common letters:  28 
+ Date of exam:  [3, 7, 2019] 
+ Date of grades release:  [25, 7, 2019] 
+ ['υπολογισιμοτητα', 'πολυπλοκοτητα', 'ηλ', 'αιθ'] 
+ ['υπολογισιμοτητα', 'πολυπλοκοτητα', 'students'] 
+
+18       Days took:  10 
+ Common Words:  ['εισαγωγη', 'στις', 'τηλεπικοινωνιες'] 
+ Number of common letters:  27 
+ Date of exam:  [28, 6, 2019] 
+ Date of grades release:  [8, 7, 2019] 
+ ['εισαγωγη', 'στις', 'τηλεπικοινωνιες', 'μονο', 'παλαιους', 'φοιτητες', 'ηλ', 'αιθ'] 
+ ['βαθμολογια', 'εισαγωγη', 'στις', 'τηλεπικοινωνιες', 'παλιοι'] 
+
+19       Days took:  24 
+ Common Words:  ['διοικηση', 'ψηφιακης', 'επιχειρησης'] 
+ Number of common letters:  27 
+ Date of exam:  [14, 6, 2019] 
+ Date of grades release:  [8, 7, 2019] 
+ ['διοικηση', 'ψηφιακης', 'επιχειρησης', 'ηλ', 'αιθ'] 
+ ['διοικηση', 'ψηφιακης', 'επιχειρησης', 'students'] 
+
+20       Days took:  12 
+ Common Words:  ['συστηματα', 'αποφασεων', 'αποφασεων'] 
+ Number of common letters:  27 
+ Date of exam:  [28, 6, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['συστηματα', 'αποφασεων', 'επι', 'πτυχιω', 'πολυκριτηρια', 'αναλυση', 'αποφασεων', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'αποφασεων', 'students', 'academics'] 
+
+21       Days took:  10 
+ Common Words:  ['ηλεκτρομαγνητικη', 'συμβατοτητα'] 
+ Number of common letters:  27 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [15, 7, 2019] 
+ ['ηλεκτρομαγνητικη', 'συμβατοτητα', 'εργ', 'κεραιων'] 
+ ['ηλεκτρομαγνητικη', 'συμβατοτητα', 'students'] 
+
+22       Days took:  28 
+ Common Words:  ['εισαγωγη', 'βιοιατρικη', 'μηχανικη'] 
+ Number of common letters:  26 
+ Date of exam:  [2, 7, 2019] 
+ Date of grades release:  [30, 7, 2019] 
+ ['εισαγωγη', 'βιοιατρικη', 'μηχανικη', 'ηλ', 'αιθ'] 
+ ['εισαγωγη', 'βιοιατρικη', 'μηχανικη', 'ι', 'students'] 
+
+23       Days took:  11 
+ Common Words:  ['αναλυση', 'γραμμικων', 'κυκλωματων'] 
+ Number of common letters:  26 
+ Date of exam:  [18, 6, 2019] 
+ Date of grades release:  [29, 6, 2019] 
+ ['αναλυση', 'γραμμικων', 'κυκλωματων', 'ηλ', 'αμφ'] 
+ ['αναλυση', 'γραμμικων', 'κυκλωματων', 'κακλαμανη', 'students'] 
+
+24       Days took:  83 
+ Common Words:  ['συστηματα', 'μικρουπολογιστων'] 
+ Number of common letters:  25 
+ Date of exam:  [19, 6, 2019] 
+ Date of grades release:  [12, 9, 2019] 
+ ['συστηματα', 'μικρουπολογιστων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['τελικη', 'βαθμολογια', 'μετα', 'επιδειξη', 'συστηματα', 'μικρουπολογιστων', 'mycourses'] 
+
+25       Days took:  24 
+ Common Words:  ['μαθηματικη', 'αναλυση', 'αναλυση'] 
+ Number of common letters:  24 
+ Date of exam:  [20, 6, 2019] 
+ Date of grades release:  [14, 7, 2019] 
+ ['μαθηματικη', 'αναλυση', 'συναρτησεις', 'πολλων', 'μεταβλητων', 'αναλυση', 'ηλ', 'αμφ'] 
+ ['μαθηματικη', 'αναλυση', 'ι', 'students'] 
+
+26       Days took:  12 
+ Common Words:  ['δικτυακος', 'προγραμματισμος'] 
+ Number of common letters:  24 
+ Date of exam:  [20, 6, 2019] 
+ Date of grades release:  [2, 7, 2019] 
+ ['δικτυακος', 'προγραμματισμος', 'pc', 'lab', 'σχολης'] 
+ ['δικτυακος', 'προγραμματισμος', 'students'] 
+
+27       Days took:  23 
+ Common Words:  ['κεντρα', 'ελεγχου', 'ενεργειας'] 
+ Number of common letters:  22 
+ Date of exam:  [20, 6, 2019] 
+ Date of grades release:  [13, 7, 2019] 
+ ['κεντρα', 'ελεγχου', 'ενεργειας', 'ηλ', 'αιθ'] 
+ ['κεντρα', 'ελεγχου', 'ενεργειας', 'mycourses'] 
+
+28       Days took:  47 
+ Common Words:  ['κυματικη', 'κβαντικη', 'φυσικη'] 
+ Number of common letters:  22 
+ Date of exam:  [10, 6, 2019] 
+ Date of grades release:  [27, 7, 2019] 
+ ['κυματικη', 'κβαντικη', 'φυσικη', 'ηλ', 'αμφ', 'αιθ'] 
+ ['κυματικη', 'κβαντικη', 'φυσικη', 'mycourses', 'μω'] 
+
+29       Days took:  22 
+ Common Words:  ['ηλεκτρομαγνητικα', 'πεδια', 'α'] 
+ Number of common letters:  22 
+ Date of exam:  [3, 7, 2019] 
+ Date of grades release:  [25, 7, 2019] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'α', 'αλ', 'ηλ', 'αμφ', 'αιθ'] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'α', 'χιτζανιδης', 'οι', 'βαθμοι', 'ειναι', 'χειρογραφοι'] 
+
+30       Days took:  21 
+ Common Words:  ['ηλεκτρομαγνητικα', 'πεδια', 'α'] 
+ Number of common letters:  22 
+ Date of exam:  [3, 7, 2019] 
+ Date of grades release:  [24, 7, 2019] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'α', 'μω', 'ηλ', 'αμφ', 'αιθ'] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'α', 'mycourses', 'πεδια', 'αpdf', 'μεταφορτωθηκε'] 
+
+31       Days took:  0 
+ Common Words:  ['πολυδιαστατα', 'συστηματα'] 
+ Number of common letters:  21 
+ Date of exam:  [12, 6, 2019] 
+ Date of grades release:  [12, 6, 2019] 
+ ['πολυδιαστατα', 'συστηματα', 'ηλ', 'αιθ'] 
+ ['πολυδιαστατα', 'συστηματα', 'ο', 'εξαμηνο', 'ροη', 'σαποτελεσματα', 'σημερινης', 'εξετασης'] 
+
+32       Days took:  18 
+ Common Words:  ['ψηφιακες', 'επικοινωνιες', 'ι'] 
+ Number of common letters:  21 
+ Date of exam:  [4, 7, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['ψηφιακες', 'επικοινωνιες', 'ι', 'ηλ', 'αμφ'] 
+ ['ψηφιακες', 'επικοινωνιες', 'ι', 'site', 'του', 'μαθηματος'] 
+
+33       Days took:  28 
+ Common Words:  ['συστηματα', 'οπτικων', 'ινων'] 
+ Number of common letters:  20 
+ Date of exam:  [25, 6, 2019] 
+ Date of grades release:  [23, 7, 2019] 
+ ['συστηματα', 'μεταδοσης', 'οπτικων', 'ινων', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'οπτικων', 'ινων', 'students'] 
+
+34       Days took:  7 
+ Common Words:  ['μιγαδικες', 'συναρτησεις'] 
+ Number of common letters:  20 
+ Date of exam:  [19, 6, 2019] 
+ Date of grades release:  [26, 6, 2019] 
+ ['μιγαδικες', 'συναρτησεις', 'γε', 'κτ', 'ε', 'αμφ'] 
+ ['μιγαδικες', 'συναρτησεις', 'mycourses'] 
+
+35       Days took:  22 
+ Common Words:  ['συστηματα', 'διαμορφωσης'] 
+ Number of common letters:  20 
+ Date of exam:  [10, 6, 2019] 
+ Date of grades release:  [2, 7, 2019] 
+ ['συστηματα', 'διαμορφωσης', 'μεταδοσης', 'ηλ', 'αμφ'] 
+ ['συστηματα', 'διαμορφωσης', 'μεταδοσηςστο', 'students'] 
+
+36       Days took:  5 
+ Common Words:  ['ηλεκτρικης', 'ενεργειας'] 
+ Number of common letters:  19 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['προστασια', 'συστηματων', 'ηλεκτρικης', 'ενεργειας'] 
+ ['αποτελεσματα', 'παραγωγης', 'ηλεκτρικης', 'ενεργειας', 'πηε', 'students'] 
+
+37       Days took:  14 
+ Common Words:  ['ενεργειακη', 'οικονομια'] 
+ Number of common letters:  19 
+ Date of exam:  [26, 6, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['ενεργειακη', 'οικονομια', 'ηλ', 'αμφ'] 
+ ['ενεργειακη', 'οικονομια'] 
+
+38       Days took:  4 
+ Common Words:  ['σχεδιαση', 'συστηματων'] 
+ Number of common letters:  18 
+ Date of exam:  [1, 7, 2019] 
+ Date of grades release:  [5, 7, 2019] 
+ ['σχεδιαση', 'αναλογικων', 'ηλεκτρονικων', 'συστηματων', 'ηλ', 'αμφ'] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'βαρβαριγου', 'students'] 
+
+39       Days took:  14 
+ Common Words:  ['ηλεκτρικη', 'οικονομια'] 
+ Number of common letters:  18 
+ Date of exam:  [20, 6, 2019] 
+ Date of grades release:  [4, 7, 2019] 
+ ['ηλεκτρικη', 'οικονομια', 'ηλ', 'αμφ'] 
+ ['ηλεκτρικη', 'οικονομια', 'students'] 
+
+40       Days took:  28 
+ Common Words:  ['τεχνολογια', 'φωτισμου'] 
+ Number of common letters:  18 
+ Date of exam:  [24, 6, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['τεχνολογια', 'φωτισμου', 'ηλ', 'αιθ'] 
+ ['τεχνολογια', 'φωτισμου', 'students'] 
+
+41       Days took:  36 
+ Common Words:  ['συστηματα', 'διοικησης'] 
+ Number of common letters:  18 
+ Date of exam:  [26, 6, 2019] 
+ Date of grades release:  [2, 8, 2019] 
+ ['συστηματα', 'διοικησης', 'ηλ', 'αμφ'] 
+ ['συστηματα', 'διοικησης', 'site', 'του', 'μαθηματος'] 
+
+42       Days took:  31 
+ Common Words:  ['συστηματα', 'αναμονης'] 
+ Number of common letters:  17 
+ Date of exam:  [21, 6, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['συστηματα', 'αναμονης', 'ηλ', 'αμφ'] 
+ ['συστηματα', 'αναμονης', 'netmode'] 
+
+43       Days took:  67 
+ Common Words:  ['προγραμματιστικες'] 
+ Number of common letters:  17 
+ Date of exam:  [14, 6, 2019] 
+ Date of grades release:  [21, 8, 2019] 
+ ['προγραμματιστικες', 'τεχνικες', 'ηλ', 'αμφ'] 
+ ['προγραμματιστικες', 'τεχνικεςη', 'βαθμολογια', 'κανονικης', 'εξεταστικης', 'ειναι', 'studentsece', 'θα'] 
+
+44       Days took:  50 
+ Common Words:  ['ηλεκτρικες', 'μηχανες'] 
+ Number of common letters:  17 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [25, 8, 2019] 
+ ['ηλεκτρικες', 'μηχανες', 'ι', 'ηλ', 'αμφ'] 
+ ['ηλεκτρικες', 'μηχανες', 'imycourses'] 
+
+45       Days took:  25 
+ Common Words:  ['αριθμητικη', 'αναλυση'] 
+ Number of common letters:  17 
+ Date of exam:  [13, 6, 2019] 
+ Date of grades release:  [8, 7, 2019] 
+ ['αριθμητικη', 'αναλυση', 'ηλ', 'αμφ', 'αιθ'] 
+ ['αριθμητικη', 'αναλυση', 'students'] 
+
+46       Days took:  27 
+ Common Words:  ['ηλεκτρονικη', 'ισχυος'] 
+ Number of common letters:  17 
+ Date of exam:  [25, 6, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['ηλεκτρονικη', 'ισχυος', 'ι', 'ηλ', 'αμφ'] 
+ ['ηλεκτρονικη', 'ισχυος', 'i', 'students'] 
+
+47       Days took:  28 
+ Common Words:  ['ιατρικη', 'απεικονιση'] 
+ Number of common letters:  17 
+ Date of exam:  [19, 6, 2019] 
+ Date of grades release:  [17, 7, 2019] 
+ ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας', 'ηλ', 'αιθ'] 
+ ['ιατρικη', 'απεικονιση', 'ι', 'students'] 
+
+48       Days took:  35 
+ Common Words:  ['συστηματα', 'ελεγχου'] 
+ Number of common letters:  16 
+ Date of exam:  [18, 6, 2019] 
+ Date of grades release:  [23, 7, 2019] 
+ ['συστηματα', 'ελεγχου', 'ηλεκτρικων', 'μηχανων', 'ηλ', 'αιθ'] 
+ ['συστηματα', 'αυτοματου', 'ελεγχου', 'πτυχιω', 'παπαοδυσσεα', 'δεν', 'γνωριζω', 'τους'] 
+
+49       Days took:  17 
+ Common Words:  ['μικρουπολογιστων'] 
+ Number of common letters:  16 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [22, 7, 2019] 
+ ['εργαστηριο', 'μικρουπολογιστων'] 
+ ['συστηματα', 'μικρουπολογιστων', 'υ', 'mycourses'] 
+
+50       Days took:  11 
+ Common Words:  ['τεχνητη', 'νοημοσυνη'] 
+ Number of common letters:  16 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [16, 7, 2019] 
+ ['τεχνητη', 'νοημοσυνη'] 
+ ['τεχνητη', 'νοημοσυνη', 'students'] 
+
+51       Days took:  66 
+ Common Words:  ['μαθηματικη', 'λογικη'] 
+ Number of common letters:  16 
+ Date of exam:  [20, 6, 2019] 
+ Date of grades release:  [26, 8, 2019] 
+ ['μαθηματικη', 'λογικη', 'υπολογιστες', 'ηλ', 'αιθ'] 
+ ['μαθηματικη', 'λογικη', 'students'] 
+
+52       Days took:  20 
+ Common Words:  ['σηματα', 'συστηματα'] 
+ Number of common letters:  15 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [25, 7, 2019] 
+ ['σηματα', 'συστηματα', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['σηματα', 'συστηματα', 'students'] 
+
+53       Days took:  40 
+ Common Words:  ['ασφαλεια', 'δικτυων'] 
+ Number of common letters:  15 
+ Date of exam:  [2, 7, 2019] 
+ Date of grades release:  [12, 8, 2019] 
+ ['ασφαλεια', 'δικτυων', 'υπολογιστων', 'ηλ', 'αμφ'] 
+ ['ασφαλεια', 'δικτυων', 'ου', 'δ', 'στατιστικαpng', 'στατιστικα', 'βαθμολογιας', 'καμια'] 
+
+54       Days took:  29 
+ Common Words:  ['τεχνικη', 'μηχανικη'] 
+ Number of common letters:  15 
+ Date of exam:  [11, 6, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['τεχνικη', 'μηχανικη', 'ηλ', 'αμφ', 'αιθ'] 
+ ['τεχνικη', 'μηχανικη', 'students', 'τμημα', 'κ', 'βαδαλουκα'] 
+
+55       Days took:  27 
+ Common Words:  ['βασεις', 'δεδομενων'] 
+ Number of common letters:  15 
+ Date of exam:  [4, 7, 2019] 
+ Date of grades release:  [31, 7, 2019] 
+ ['βασεις', 'δεδομενων', 'ηλ', 'αμφ', 'αιθ'] 
+ ['βασεις', 'δεδομενων', 'mycourses'] 
+
+56       Days took:  7 
+ Common Words:  ['αρχιτεκτονικη'] 
+ Number of common letters:  13 
+ Date of exam:  [26, 6, 2019] 
+ Date of grades release:  [3, 7, 2019] 
+ ['αρχιτεκτονικη', 'υπολογιστων', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['αρχιτεκτονικη', 'τσανακα', 'σαιτ', 'του', 'μαθηματος'] 
+
+57       Days took:  50 
+ Common Words:  ['θεωρια', 'δικτυων'] 
+ Number of common letters:  13 
+ Date of exam:  [1, 7, 2019] 
+ Date of grades release:  [21, 8, 2019] 
+ ['θεωρια', 'δικτυων', 'κυκλωματων', 'ηλ', 'αμφ'] 
+ ['θεωρια', 'δικτυων', 'students'] 
+
+58       Days took:  68 
+ Common Words:  ['του', 'μαθηματος'] 
+ Number of common letters:  12 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [13, 9, 2019] 
+ ['σε', 'οσα', 'μαθηματα', 'προγραμμα', 'εξεταστικης', 'αναφερεται', 'συνεννοηση', 'διδασκοντα', 'σπουδαστες', 'θα', 'πρεπει', 'να', 'επικοινωνησουν', 'τον', 'διδασκοντα', 'του', 'αντιστοιχου', 'μαθηματος', 'αργοτερο', 'μεχρι'] 
+ ['σαης', 'mycoursesαγαπητοι', 'συναδελφοι', 'αποτελεσματα', 'κανονικης', 'περιοδου', 'του', 'μαθηματος'] 
+
+59       Days took:  3 
+ Common Words:  ['ηλεκτρονικης'] 
+ Number of common letters:  12 
+ Date of exam:  [25, 6, 2019] 
+ Date of grades release:  [28, 6, 2019] 
+ ['εργαστηριο', 'ψηφιακων', 'συστηματων', 'ηλ', 'εργ', 'ηλεκτρονικης'] 
+ ['αποτελεσματα', 'ηλεκτρονικης'] 
+
+60       Days took:  0 
+ Common Words:  ['ηλεκτρονικη'] 
+ Number of common letters:  11 
+ Date of exam:  [18, 6, 2019] 
+ Date of grades release:  [18, 6, 2019] 
+ ['ηλεκτρονικη', 'ι', 'ηλ', 'αμφ'] 
+ ['ηλεκτρονικη'] 
+
+61       Days took:  22 
+ Common Words:  ['φυσικη', 'ιι', 'για'] 
+ Number of common letters:  11 
+ Date of exam:  [12, 6, 2019] 
+ Date of grades release:  [4, 7, 2019] 
+ ['φυσικη', 'ιι', 'ηλεκτρομαγνητισμος', 'για', 'παλαιους', 'φοιτητες', 'ηλ', 'αιθ'] 
+ ['φυσικη', 'ιι', 'για', 'τους', 'παλιους', 'mycourses'] 
+
+62       Days took:  19 
+ Common Words:  ['μικροκυματα'] 
+ Number of common letters:  11 
+ Date of exam:  [19, 6, 2019] 
+ Date of grades release:  [8, 7, 2019] 
+ ['μικροκυματα', 'ηλ', 'αμφ'] 
+ ['μικροκυματα', 'students'] 
+
+63       Days took:  4 
+ Common Words:  ['κυκλωματων'] 
+ Number of common letters:  10 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [9, 7, 2019] 
+ ['μικροηλεκτρονικη', 'κατασκευη', 'ολοκληρωμενων', 'κυκλωματων'] 
+ ['αναλυση', 'γραμμιικων', 'κυκλωματων', 'αποτελεσματα', 'φραγκου', 'mycources'] 
+
+64       Days took:  38 
+ Common Words:  ['αλγοριθμοι'] 
+ Number of common letters:  10 
+ Date of exam:  [27, 6, 2019] 
+ Date of grades release:  [5, 8, 2019] 
+ ['αλγοριθμοι', 'πολυπλοκοτητα', 'επι', 'πτυχιω', 'προηγμενα', 'αλγοριθμων', 'ηλ', 'αιθ'] 
+ ['αλγοριθμοι', 'students'] 
+
+65       Days took:  31 
+ Common Words:  ['στοχαστικα'] 
+ Number of common letters:  10 
+ Date of exam:  [24, 6, 2019] 
+ Date of grades release:  [25, 7, 2019] 
+ ['στοχαστικα', 'συστηματα', 'επικοινωνιες', 'ηλ', 'αμφ'] 
+ ['στοχαστικα', 'ου', 'εξαμηνου', 'students'] 
+
+66       Days took:  14 
+ Common Words:  ['επι', 'πτυχιω'] 
+ Number of common letters:  9 
+ Date of exam:  [6, 6, 2019] 
+ Date of grades release:  [20, 6, 2019] 
+ ['αναλυση', 'σηε', 'μονιμη', 'κατασταση', 'λειτουργιας', 'επι', 'πτυχιω', 'ηλ', 'αμφ'] 
+ ['ηλεκτρομαγνητικα', 'πεδια', 'β', 'επι', 'πτυχιω', 'mycourses'] 
+
+67       Days took:  7 
+ Common Words:  ['διαδικτυο'] 
+ Number of common letters:  9 
+ Date of exam:  [28, 6, 2019] 
+ Date of grades release:  [5, 7, 2019] 
+ ['διαδικτυο', 'εφαρμογες', 'ηλ', 'αμφ'] 
+ ['διαδικτυο', 'ου', 'δ', 'studentsecentuagrhttpscoursescnntuagrpluginfilep', 'gradespdf', 'κανονικη', 'εξεταση', 'kib'] 
+
+68       Days took:  4 
+ Common Words:  ['ασυρματες'] 
+ Number of common letters:  9 
+ Date of exam:  [24, 6, 2019] 
+ Date of grades release:  [28, 6, 2019] 
+ ['ασυρματες', 'ζευξεις', 'διαδοση', 'ηλ', 'αμφ'] 
+ ['ασυρματες', 'students'] 
+
+69       Days took:  51 
+ Common Words:  ['ρομποτικη'] 
+ Number of common letters:  9 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [26, 8, 2019] 
+ ['ρομποτικη', 'ι', 'αναλυσηελεγχοςεργαστηριο'] 
+ ['ρομποτικη', 'ii', 'mycourses', 'students'] 
+
+70       Days took:  20 
+ Common Words:  ['διαταξεις'] 
+ Number of common letters:  9 
+ Date of exam:  [3, 7, 2019] 
+ Date of grades release:  [23, 7, 2019] 
+ ['υλικα', 'διαταξεις', 'προηγμενης', 'τεχνολογιας', 'ηλ', 'αμφ'] 
+ ['διαταξεις', 'ημιαγωγων', 'mycourses'] 
+
+71       Days took:  15 
+ Common Words:  ['επιστημη'] 
+ Number of common letters:  8 
+ Date of exam:  [5, 7, 2019] 
+ Date of grades release:  [20, 7, 2019] 
+ ['οπτικη', 'επιστημη', 'τεχνολογια', 'ηλ', 'αιθ'] 
+ ['επιστημη', 'students'] 
+
+72       Days took:  34 
+ Common Words:  ['μηχανικη'] 
+ Number of common letters:  8 
+ Date of exam:  [6, 6, 2019] 
+ Date of grades release:  [10, 7, 2019] 
+ ['φυσικη', 'ι', 'μηχανικη', 'επι', 'πτυχιω', 'ηλ', 'αιθ'] 
+ ['μηχανικη', 'δυναμικη', 'εχει', 'στειλει', 'τις', 'βαθμολογιες', 'κ', 'κομινης'] 
+
+73       Days took:  54 
+ Common Words:  ['διακριτα'] 
+ Number of common letters:  8 
+ Date of exam:  [13, 6, 2019] 
+ Date of grades release:  [7, 8, 2019] 
+ ['διακριτα', 'μαθηματικα', 'ηλ', 'αμφ', 'αιθ'] 
+ ['διακριτα', 'students'] 
+

@@ -1,0 +1,568 @@
+1       Days took:  10 
+ Common Words:  ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας'] 
+ Number of common letters:  50 
+ Date of exam:  [12, 7, 2013] 
+ Date of grades release:  [22, 7, 2013] 
+ ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ιατρικη', 'απεικονιση', 'ψηφιακη', 'επεξεργασια', 'ιατρικης', 'εικονας', 'mycoursesεγγραφα', 'anakoinwshccddccaccdcccacfcdcdcshmmygradesjulypdf'] 
+
+2       Days took:  197 
+ Common Words:  ['σχεδιαση', 'αναλογικων', 'μικροηλεκτρονικων', 'κυκλωματων'] 
+ Number of common letters:  45 
+ Date of exam:  [10, 7, 2013] 
+ Date of grades release:  [22, 1, 2014] 
+ ['σχεδιαση', 'αναλογικων', 'μικροηλεκτρονικων', 'κυκλωματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['σχεδιαση', 'αναλογικων', 'μικροηλεκτρονικων', 'κυκλωματων', 'φοιτητικα', 'στοιχεια'] 
+
+3       Days took:  4 
+ Common Words:  ['εφαρμοσμενος', 'υπολογιστικος', 'ηλεκτρομαγνητισμος'] 
+ Number of common letters:  43 
+ Date of exam:  [5, 7, 2013] 
+ Date of grades release:  [9, 7, 2013] 
+ ['εφαρμοσμενος', 'υπολογιστικος', 'ηλεκτρομαγνητισμος', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['εφαρμοσμενος', 'υπολογιστικος', 'ηλεκτρομαγνητισμος', 'τ', 'mycourses', 'αποτελεσματαεξετασηςστομαθημαpdf', 'μεταφορτωθηκε'] 
+
+4       Days took:  14 
+ Common Words:  ['σχεδιασμος', 'υπηρεσιων', 'πρωτοκολλων', 'τυπικες'] 
+ Number of common letters:  37 
+ Date of exam:  [11, 7, 2013] 
+ Date of grades release:  [25, 7, 2013] 
+ ['σχεδιασμος', 'υπηρεσιων', 'πρωτοκολλων', 'τυπικες', 'μεθοδους', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['σχεδιασμος', 'υπηρεσιων', 'πρωτοκολλων', 'τυπικες', 'μεθοδουςστο', 'εδω', 'μεταφορτωθηκε'] 
+
+5       Days took:  29 
+ Common Words:  ['εισαγωγη', 'στην', 'εμβιομηχανικη', 'εφαρμοσμενη'] 
+ Number of common letters:  36 
+ Date of exam:  [19, 6, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['εισαγωγη', 'στην', 'εμβιομηχανικη', 'εφαρμοσμενη', 'βιοφυσικη', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['εισαγωγη', 'στην', 'εμβιομηχανικη', 'εφαρμοσμενη', 'βιοφυσικηφοιτητικα', 'στοιχεια', 'ελεος'] 
+
+6       Days took:  13 
+ Common Words:  ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας'] 
+ Number of common letters:  32 
+ Date of exam:  [9, 7, 2013] 
+ Date of grades release:  [22, 7, 2013] 
+ ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας', 'εργ', 'βιοιατρ', 'τεχν'] 
+ ['εργαστηριο', 'βιοιατρικης', 'τεχνολογιας', 'εργαστηριο', 'βτβαθμολογια', 'ιουνιου', 'pdf', 'μεταφορτωθηκε'] 
+
+7       Days took:  157 
+ Common Words:  ['αναλογικων', 'ηλεκτρονικων', 'συστηματων'] 
+ Number of common letters:  32 
+ Date of exam:  [28, 6, 2013] 
+ Date of grades release:  [5, 12, 2013] 
+ ['σχεδιαση', 'αναλογικων', 'ηλεκτρονικων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['αποτελεσματα', 'σχεδιασης', 'αναλογικων', 'ηλεκτρονικων', 'συστηματων', 'mycourses', 'httpmycoursesntuagrcoursesece', 'sahsvathmologiakanonikispdf'] 
+
+8       Days took:  33 
+ Common Words:  ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων'] 
+ Number of common letters:  32 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [20, 7, 2013] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['λογικη', 'σχεδιαση', 'ψηφιακων', 'συστηματων', 'στον', 'αρχιμηδηhttparchimedescsntuagrgradesldnhtml', 'ldnpdf', 'μεταφορτωθηκε'] 
+
+9       Days took:  2 
+ Common Words:  ['εξομοιωση', 'συστηματων', 'επικοινωνιων'] 
+ Number of common letters:  31 
+ Date of exam:  [26, 6, 2013] 
+ Date of grades release:  [28, 6, 2013] 
+ ['εξομοιωση', 'συστηματων', 'επικοινωνιων', 'pc', 'lab', 'σχολης'] 
+ ['εξομοιωση', 'συστηματων', 'επικοινωνιων', 'juneannouncedpdf', 'μεταφορτωθηκε'] 
+
+10       Days took:  30 
+ Common Words:  ['εισαγωγη', 'στην', 'επιστημη', 'υπολογιστων'] 
+ Number of common letters:  31 
+ Date of exam:  [26, 6, 2013] 
+ Date of grades release:  [26, 7, 2013] 
+ ['εισαγωγη', 'στην', 'επιστημη', 'υπολογιστων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['εισαγωγη', 'στην', 'επιστημη', 'υπολογιστων', 'εαρινη', 'updated', 'updated', 'αρχειο'] 
+
+11       Days took:  25 
+ Common Words:  ['συστηματα', 'μεταδοσης', 'οπτικων', 'ινων'] 
+ Number of common letters:  29 
+ Date of exam:  [5, 7, 2013] 
+ Date of grades release:  [30, 7, 2013] 
+ ['συστηματα', 'μεταδοσης', 'οπτικων', 'ινων', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['συστηματα', 'μεταδοσης', 'οπτικων', 'ινων', 'φοιτητικα', 'στοιχεια'] 
+
+12       Days took:  27 
+ Common Words:  ['οικονομικη', 'αναλυση', 'επιχειρησεων'] 
+ Number of common letters:  29 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['οικονομικη', 'αναλυση', 'επιχειρησεων', 'εξω', 'γραφειο', 'του', 'καπρουγραπτα', 'τεταρτη'] 
+
+13       Days took:  4 
+ Common Words:  ['κινητων', 'προσωπικων', 'επικοινωνιων'] 
+ Number of common letters:  29 
+ Date of exam:  [5, 7, 2013] 
+ Date of grades release:  [9, 7, 2013] 
+ ['ικτυα', 'κινητων', 'προσωπικων', 'επικοινωνιων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['δικτυα', 'κινητων', 'προσωπικων', 'επικοινωνιων', 'ροη', 'δhttpcoursescnntuagrfilephpmobilejulyannouncedpdf', 'mobilejulyannouncedpdf', 'μεταφορτωθηκε'] 
+
+14       Days took:  14 
+ Common Words:  ['ψηφιακη', 'τηλεοραση', 'επικοινωνιες'] 
+ Number of common letters:  28 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [5, 7, 2013] 
+ ['ψηφιακη', 'τηλεοραση', 'επικοινωνιες', 'πολυμεσων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['h', 'βαθμολογια', 'γραπτης', 'εξετασης', 'ψηφιακη', 'τηλεοραση', 'επικοινωνιες', 'πολυμεσωνhttpmycoursesntuagrcoursesecedocumentceeecefebefedfegraptaiouniospdf'] 
+
+15       Days took:  31 
+ Common Words:  ['αλληλεπιδραση', 'ανθρωπουμηχανης'] 
+ Number of common letters:  28 
+ Date of exam:  [19, 6, 2013] 
+ Date of grades release:  [20, 7, 2013] 
+ ['αλληλεπιδραση', 'ανθρωπουμηχανης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['βγηκε', 'αλληλεπιδραση', 'ανθρωπουμηχανης', 'ροη', 'υ', 'ο', 'εξαμηνο', 'εγγραφα'] 
+
+16       Days took:  51 
+ Common Words:  ['σχεδιαση', 'γραμμικων', 'κυκλωματων'] 
+ Number of common letters:  27 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [12, 8, 2013] 
+ ['σχεδιαση', 'γραμμικων', 'κυκλωματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ', 'αιθ'] 
+ ['σχεδιαση', 'γραμμικων', 'κυκλωματων', 'σχεδγραμμκυκεαρpdf', 'μεταφορτωθηκε'] 
+
+17       Days took:  30 
+ Common Words:  ['συστηματα', 'χρηματοοικονομικης'] 
+ Number of common letters:  27 
+ Date of exam:  [19, 6, 2013] 
+ Date of grades release:  [19, 7, 2013] 
+ ['συστηματα', 'χρηματοοικονομικης', 'ιοικησης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['συστηματα', 'χρηματοοικονομικης', 'διοικησηςεδω', 'χρηματοοικονομικη', 'διοικησηpdf', 'μεταφορτωθηκε'] 
+
+18       Days took:  9 
+ Common Words:  ['αριθμητικες', 'μεθοδοι', 'εξισωσεων'] 
+ Number of common letters:  27 
+ Date of exam:  [27, 6, 2013] 
+ Date of grades release:  [6, 7, 2013] 
+ ['αριθμητικες', 'μεθοδοι', 'ιαφορικων', 'εξισωσεων', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['βγηκαν', 'βαθμολογιες', 'αριθμητικες', 'μεθοδοι', 'διαφορικων', 'εξισωσεων', 'mycourses', 'αμ'] 
+
+19       Days took:  11 
+ Common Words:  ['φυσικη', 'ιι', 'ηλεκτρομαγνητισμος'] 
+ Number of common letters:  26 
+ Date of exam:  [28, 6, 2013] 
+ Date of grades release:  [9, 7, 2013] 
+ ['φυσικη', 'ιι', 'ηλεκτρομαγνητισμος', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['φυσικη', 'ιι', 'ηλεκτρομαγνητισμος', 'vathmoiatotalampdf', 'μεταφορτωθηκε', 'απο', 'mycoursesοσοι', 'σπουδαστες'] 
+
+20       Days took:  2 
+ Common Words:  ['τηλεπικοινωνιες', 'οπτικων', 'ινων'] 
+ Number of common letters:  26 
+ Date of exam:  [8, 7, 2013] 
+ Date of grades release:  [10, 7, 2013] 
+ ['τηλεπικοινωνιες', 'οπτικων', 'ινων', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['τηλεπικοινωνιες', 'οπτικων', 'ινων', 'ροη', 'τ', 'εξαμηνοεξω', 'γραφειο', 'του'] 
+
+21       Days took:  81 
+ Common Words:  ['συστηματα', 'τεχνολογιες', 'γνωσης'] 
+ Number of common letters:  26 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [8, 9, 2013] 
+ ['συστηματα', 'τεχνολογιες', 'γνωσης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['συστηματα', 'τεχνολογιες', 'γνωσης', 'ου', 'εξαμηνου', 'mycoursesτελικη', 'βαθμολογια', 'κανονικης'] 
+
+22       Days took:  18 
+ Common Words:  ['υλικα', 'προηγμενης', 'τεχνολογιας'] 
+ Number of common letters:  26 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [5, 7, 2013] 
+ ['υλικα', 'ιαταξεις', 'προηγμενης', 'τεχνολογιας', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['υλικα', 'διαταξεις', 'προηγμενης', 'τεχνολογιας', 'o', 'εξω', 'γραφειο', 'του'] 
+
+23       Days took:  49 
+ Common Words:  ['προγραμματιστικες', 'τεχνικες'] 
+ Number of common letters:  25 
+ Date of exam:  [11, 7, 2013] 
+ Date of grades release:  [30, 8, 2013] 
+ ['προγραμματιστικες', 'τεχνικες', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['προγραμματιστικες', 'τεχνικες', 'mycourseshttpmycoursesntuagrcoursesece', 'progtechgradesjulyvpdf', 'μεταφορτωθηκε'] 
+
+24       Days took:  154 
+ Common Words:  ['συστηματα', 'μικρουπολογιστων'] 
+ Number of common letters:  25 
+ Date of exam:  [12, 7, 2013] 
+ Date of grades release:  [16, 12, 2013] 
+ ['συστηματα', 'μικρουπολογιστων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ανανεωμενη', 'βαθμολογια', 'συστηματα', 'μικρουπολογιστων', 'mps', 'telikipdf', 'μεταφορτωθηκε'] 
+
+25       Days took:  18 
+ Common Words:  ['μιγαδικες', 'εξισωσεις', 'μερικες'] 
+ Number of common letters:  25 
+ Date of exam:  [1, 7, 2013] 
+ Date of grades release:  [19, 7, 2013] 
+ ['μιγαδικες', 'συναρτησεις', 'εξισωσεις', 'μερικες', 'παραγωγους', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['μιγαδικες', 'εξισωσεσις', 'μερικες', 'διαφορικες', 'εξισωσεις', 'σεμφε', 'ος', 'οροφος'] 
+
+26       Days took:  2 
+ Common Words:  ['οπτικη', 'επιστημη', 'τεχνολογια'] 
+ Number of common letters:  24 
+ Date of exam:  [4, 7, 2013] 
+ Date of grades release:  [6, 7, 2013] 
+ ['οπτικη', 'επιστημη', 'τεχνολογια', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['οπτικη', 'επιστημη', 'τεχνολογια', 'γλυτσηςστο', 'site', 'του', 'μαθηματος', 'httpusersntuagreglytsisopticalscienceengineeringhtm'] 
+
+27       Days took:  35 
+ Common Words:  ['γλωσσες', 'προγραμματισμου', 'ι'] 
+ Number of common letters:  23 
+ Date of exam:  [9, 7, 2013] 
+ Date of grades release:  [14, 8, 2013] 
+ ['γλωσσες', 'προγραμματισμου', 'ι', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['γλωσσες', 'προγραμματισμου', 'ι', 'plpdf', 'μεταφορτωθηκε'] 
+
+28       Days took:  27 
+ Common Words:  ['προηγμενα', 'αρχιτεκτονικης'] 
+ Number of common letters:  23 
+ Date of exam:  [2, 7, 2013] 
+ Date of grades release:  [29, 7, 2013] 
+ ['προηγμενα', 'αρχιτεκτονικης', 'υπολογιστων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['προηγμενα', 'αρχιτεκτονικης', 'httpwwwcslabecentuagrcoursesad', 'advcomparchpdf', 'μεταφορτωθηκε'] 
+
+29       Days took:  40 
+ Common Words:  ['τεχνικες', 'βελτιστοποιησης'] 
+ Number of common letters:  23 
+ Date of exam:  [20, 6, 2013] 
+ Date of grades release:  [30, 7, 2013] 
+ ['τεχνικες', 'βελτιστοποιησης', 'εφαρμογες', 'ελεγχου', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['τεχνικες', 'βελτιστοποιησης', 'texnikesveltistopearpdf', 'credits', 'to', 'timonpumbaa', 'μεταφορτωθηκε'] 
+
+30       Days took:  69 
+ Common Words:  ['εργαστηριο', 'λειτουργικων'] 
+ Number of common letters:  22 
+ Date of exam:  [8, 7, 2013] 
+ Date of grades release:  [17, 9, 2013] 
+ ['εργαστηριο', 'λειτουργικων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['βγηκε', 'εργαστηριο', 'λειτουργικων', 'ροης', 'υ', 'ου', 'εξαμηνου', 'site'] 
+
+31       Days took:  13 
+ Common Words:  ['πολυμεταβλητα', 'συστηματα'] 
+ Number of common letters:  22 
+ Date of exam:  [4, 7, 2013] 
+ Date of grades release:  [17, 7, 2013] 
+ ['πολυμεταβλητα', 'συστηματα', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['βγηκαν', 'πολυμεταβλητα', 'συστηματα', 'ροη', 'σ', 'ο', 'εξαμηνο', 'συνθεση'] 
+
+32       Days took:  44 
+ Common Words:  ['ψηφιακα', 'συστηματα', 'vlsi'] 
+ Number of common letters:  20 
+ Date of exam:  [28, 6, 2013] 
+ Date of grades release:  [12, 8, 2013] 
+ ['ψηφιακα', 'συστηματα', 'vlsi', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['ψηφιακα', 'συστηματα', 'vlsi', 'y', 'moodle', 'dvlsi', 'pdf', 'μεταφορτωθηκε'] 
+
+33       Days took:  16 
+ Common Words:  ['επιδοση', 'υπολογιστικων'] 
+ Number of common letters:  20 
+ Date of exam:  [26, 6, 2013] 
+ Date of grades release:  [12, 7, 2013] 
+ ['επιδοση', 'υπολογιστικων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['επιδοση', 'υπολογιστικων', 'συστηματωνστο', 'mycourses', 'βαζω', 'εδω', 'pdf', 'μεταφορτωθηκε'] 
+
+34       Days took:  279 
+ Common Words:  ['εφαρμογες', 'λογικης', 'στην'] 
+ Number of common letters:  20 
+ Date of exam:  [11, 7, 2013] 
+ Date of grades release:  [15, 4, 2014] 
+ ['εφαρμογες', 'λογικης', 'στην', 'πληροφορικη', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['εφαρμογες', 'λογικης', 'στην', 'πληροφορικηστα', 'φοιτητικα', 'στοιχεια'] 
+
+35       Days took:  5 
+ Common Words:  ['ενεργειακη', 'οικονομια'] 
+ Number of common letters:  19 
+ Date of exam:  [12, 7, 2013] 
+ Date of grades release:  [17, 7, 2013] 
+ ['ενεργειακη', 'οικονομια', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ενεργειακη', 'οικονομια', 'εξω', 'γραφειο', 'του', 'καπρου', 'παλια', 'κτιρια'] 
+
+36       Days took:  22 
+ Common Words:  ['γραφικη', 'υπολογιστες'] 
+ Number of common letters:  18 
+ Date of exam:  [1, 7, 2013] 
+ Date of grades release:  [23, 7, 2013] 
+ ['γραφικη', 'υπολογιστες', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['γραφικη', 'υπολογιστες', 'mycourses', 'grafikijulypdf', 'μεταφορτωθηκε'] 
+
+37       Days took:  20 
+ Common Words:  ['ηλεκτρικη', 'οικονομια'] 
+ Number of common letters:  18 
+ Date of exam:  [3, 7, 2013] 
+ Date of grades release:  [23, 7, 2013] 
+ ['ηλεκτρικη', 'οικονομια', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ηλεκτρικη', 'οικονομια', 'ο', 'εεξω', 'γραφειο', 'του', 'κδιαλυνα'] 
+
+38       Days took:  14 
+ Common Words:  ['συστηματα', 'μεταδοσης'] 
+ Number of common letters:  18 
+ Date of exam:  [20, 6, 2013] 
+ Date of grades release:  [4, 7, 2013] 
+ ['συστηματα', 'ιαμορφωσης', 'μεταδοσης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['συστηματα', 'διαμορφωσης', 'μεταδοσης', 'ου', 'τεξω', 'γραφειο', 'του', 'κωττηπαλια'] 
+
+39       Days took:  14 
+ Common Words:  ['ψηφιακων', 'συστηματων'] 
+ Number of common letters:  18 
+ Date of exam:  [8, 7, 2013] 
+ Date of grades release:  [22, 7, 2013] 
+ ['εργαστηριο', 'ψηφιακων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'εργ', 'ηλεκτρονικης', 'β', 'β', 'β', 'σε', 'ομαδες'] 
+ ['βαθμολογια', 'εργαστηριου', 'ψηφιακων', 'συστηματων', 'στον', 'αρχιμηδη', 'httparchimedescsntuagrgradesdslnhtm'] 
+
+40       Days took:  17 
+ Common Words:  ['μαθηματικη', 'αναλυση'] 
+ Number of common letters:  17 
+ Date of exam:  [3, 7, 2013] 
+ Date of grades release:  [20, 7, 2013] 
+ ['μαθηματικη', 'αναλυση', 'συναρ', 'πολλων', 'μεταβλ', 'αναλ', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['μαθηματικη', 'αναλυση', 'ιι', 'δευτερου', 'εξαμηνου', 'φοιτητικα', 'στοιχεια'] 
+
+41       Days took:  9 
+ Common Words:  ['ηλεκτρονικη', 'ισχυος'] 
+ Number of common letters:  17 
+ Date of exam:  [26, 6, 2013] 
+ Date of grades release:  [5, 7, 2013] 
+ ['ηλεκτρονικη', 'ισχυος', 'ι', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ηλεκτρονικη', 'ισχυος', 'γραμματεια', 'ηλεκτρονικων', 'ισχυος', 'ηλεκτρικων', 'μηχανων'] 
+
+42       Days took:  19 
+ Common Words:  ['συστηματα', 'αναμονης'] 
+ Number of common letters:  17 
+ Date of exam:  [4, 7, 2013] 
+ Date of grades release:  [23, 7, 2013] 
+ ['συστηματα', 'αναμονης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['συστηματα', 'αναμονης', 'site', 'μεσω', 'ειδικης', 'φορμας'] 
+
+43       Days took:  155 
+ Common Words:  ['πολιτικη', 'οικονομια'] 
+ Number of common letters:  17 
+ Date of exam:  [8, 7, 2013] 
+ Date of grades release:  [13, 12, 2013] 
+ ['πολιτικη', 'οικονομια', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['πολιτικη', 'οικονομια', 'σεμφε', 'κτιριοε', 'πρωτος', 'οροφος'] 
+
+44       Days took:  9 
+ Common Words:  ['φυσικη', 'τεχνολογια'] 
+ Number of common letters:  16 
+ Date of exam:  [9, 7, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['εισαγωγη', 'φυσικη', 'τεχνολογια', 'ελεγχομενης', 'θερμοπυρηνικης', 'συντηξης', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['φυσικη', 'τεχνολογια', 'λειζερ', 'φ', 'mycourses', 'apotelesmatalaserpdoc', 'μεταφορτωθηκε', 'apotelesmatalaserpdoc'] 
+
+45       Days took:  18 
+ Common Words:  ['οραση', 'υπολογιστων'] 
+ Number of common letters:  16 
+ Date of exam:  [11, 7, 2013] 
+ Date of grades release:  [29, 7, 2013] 
+ ['οραση', 'υπολογιστων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['οραση', 'υπολογιστων', 'mycourses', 'cvgradesexampublicpdf', 'μεταφορτωθηκε'] 
+
+46       Days took:  20 
+ Common Words:  ['ασυρματες', 'ζευξεις'] 
+ Number of common letters:  16 
+ Date of exam:  [27, 6, 2013] 
+ Date of grades release:  [17, 7, 2013] 
+ ['ασυρματες', 'ζευξεις', 'ιαδοση', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ασυρματες', 'ζευξεις', 'τ', 'εξω', 'γραφειο', 'του', 'καψαλη', 'asurmatespdf'] 
+
+47       Days took:  20 
+ Common Words:  ['σηματα', 'συστηματα'] 
+ Number of common letters:  15 
+ Date of exam:  [12, 7, 2013] 
+ Date of grades release:  [2, 8, 2013] 
+ ['σηματα', 'συστηματα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['σηματα', 'συστηματα', 'sitehttpmycoursesntuagrcoursesece'] 
+
+48       Days took:  31 
+ Common Words:  ['τηλεπικοινωνιες'] 
+ Number of common letters:  15 
+ Date of exam:  [18, 6, 2013] 
+ Date of grades release:  [19, 7, 2013] 
+ ['εισαγωγη', 'στις', 'τηλεπικοινωνιες', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['τηλεπικοινωνιες', 'ου', 'vathmologiaintrotelcompdf', 'μεταφορτωθηκε'] 
+
+49       Days took:  71 
+ Common Words:  ['μεταγλωττιστες'] 
+ Number of common letters:  14 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [2, 9, 2013] 
+ ['μεταγλωττιστες', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['μεταγλωττιστες', 'ου', 'moodle', 'γραπτο', 'μονο', 'gradesjunpdf', 'μεταφορτωθηκε'] 
+
+50       Days took:  10 
+ Common Words:  ['εγκαταστασεις'] 
+ Number of common letters:  13 
+ Date of exam:  [8, 7, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['βιομηχανικεςκτιριακες', 'ηλεκτρομηχανολογικες', 'εγκαταστασεις', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['βγηκαν', 'βιομηχανικες', 'εγκαταστασεις', 'ροης', 'ζ', 'mycourses', 'biompdf', 'μεταφορτωθηκε'] 
+
+51       Days took:  19 
+ Common Words:  ['κεντρα', 'ελεγχου'] 
+ Number of common letters:  13 
+ Date of exam:  [4, 7, 2013] 
+ Date of grades release:  [23, 7, 2013] 
+ ['κεντρα', 'ελεγχου', 'ενεργειας', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['κεντρα', 'ελεγχου', 'ενεργειαςhttpmycoursesntuagrcoursesece', 'julyfinalpdf', 'μεταφορτωθηκε'] 
+
+52       Days took:  17 
+ Common Words:  ['εισαγωγη', 'υλικα'] 
+ Number of common letters:  13 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [8, 7, 2013] 
+ ['εισαγωγη', 'υλικα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['εισαγωγη', 'υλικα', 'ου', 'εξαμηνουhttpmycoursesntuagrcoursesece'] 
+
+53       Days took:  11 
+ Common Words:  ['επικοινωνιων'] 
+ Number of common letters:  12 
+ Date of exam:  [2, 7, 2013] 
+ Date of grades release:  [13, 7, 2013] 
+ ['ικτυα', 'επικοινωνιων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['δικτυα', 'επικοινωνιων', 'δ', 'ο', 'εξαμηνοστην', 'ιστοσελιδα', 'του', 'μαθηματοςhttpcoursescnntuagrfilephpexamjulydpdf'] 
+
+54       Days took:  26 
+ Common Words:  ['ηλεκτρονικη', 'ι'] 
+ Number of common letters:  12 
+ Date of exam:  [21, 6, 2013] 
+ Date of grades release:  [17, 7, 2013] 
+ ['ηλεκτρονικη', 'ι', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ηλεκτρονικη', 'ι', 'μω', 'εγγραφα', 'του', 'mycourses', 'κι', 'εδω'] 
+
+55       Days took:  3 
+ Common Words:  ['πολυδιαστατα'] 
+ Number of common letters:  12 
+ Date of exam:  [9, 7, 2013] 
+ Date of grades release:  [12, 7, 2013] 
+ ['πολυδιαστατα', 'συστηματα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['βγηκαν', 'πολυδιαστατα', 'του', 'θεοδωρου', 'polydpdf', 'μεταφορτωθηκε', 'αποριες', 'βαθμολογιας'] 
+
+56       Days took:  28 
+ Common Words:  ['τεχνολογιες'] 
+ Number of common letters:  11 
+ Date of exam:  [3, 7, 2013] 
+ Date of grades release:  [31, 7, 2013] 
+ ['φιλοσοφιας', 'ν', 'κτ', 'ηλεκτρ', 'αιθ', 'ειδικα', 'κοινωνιολογιας', 'ν', 'κτ', 'ηλεκτρ', 'αιθ', 'τεχνολογιες', 'πληροφοριας', 'κοινωνια', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['συστηματα', 'τεχνολογιες', 'γνωσης', 'βαθμος', 'τελικης', 'εξετασης', 'μονο', 'mycourseshttpmycoursesntuagrcoursesece'] 
+
+57       Days took:  16 
+ Common Words:  ['μικροκυματα'] 
+ Number of common letters:  11 
+ Date of exam:  [10, 7, 2013] 
+ Date of grades release:  [26, 7, 2013] 
+ ['μικροκυματα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['μικροκυματα', 'του', 'ου', 'τ', 'εαρινη', 'μεταφορτωθηκε'] 
+
+58       Days took:  30 
+ Common Words:  ['ρομποτικη', 'ιι'] 
+ Number of common letters:  11 
+ Date of exam:  [5, 7, 2013] 
+ Date of grades release:  [5, 8, 2013] 
+ ['ρομποτικη', 'ιι', 'ρομποτικα', 'συστηματα', 'κυτταρα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ρομποτικη', 'ιι', 'ροης', 'σ', 'ο', 'εξαμηνοστο', 'mycourses', 'δεν'] 
+
+59       Days took:  14 
+ Common Words:  ['ηλεκτρονικη'] 
+ Number of common letters:  11 
+ Date of exam:  [5, 7, 2013] 
+ Date of grades release:  [19, 7, 2013] 
+ ['ηλεκτρονικη', 'ιι', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ηλεκτρονικη', 'βαθμοιpdf', 'μεταφορτωθηκε'] 
+
+60       Days took:  32 
+ Common Words:  ['τεχνολογια'] 
+ Number of common letters:  10 
+ Date of exam:  [9, 7, 2013] 
+ Date of grades release:  [11, 8, 2013] 
+ ['τεχνολογια', 'φωτισμου', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['τεχνολογια', 'φωτισμουhttplightingecentuagrindexphpo', 'texnologiafotismoujulypdf', 'μεταφορτωθηκε'] 
+
+61       Days took:  21 
+ Common Words:  ['ηλεκτρικες'] 
+ Number of common letters:  10 
+ Date of exam:  [18, 6, 2013] 
+ Date of grades release:  [9, 7, 2013] 
+ ['ηλεκτρικες', 'μηχανες', 'ι', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['ηλεκτρικες', 'μετρησειςhttpmycoursesntuagrcoursesecedocumentmetriitelpdf', 'metriitelpdf', 'μεταφορτωθηκε'] 
+
+62       Days took:  18 
+ Common Words:  ['συστηματων'] 
+ Number of common letters:  10 
+ Date of exam:  [27, 6, 2013] 
+ Date of grades release:  [15, 7, 2013] 
+ ['εποπτεια', 'ιαχειριση', 'ενεργειακων', 'συστηματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['dionwild', 'εγραψεαξιοπιστια', 'συστηματων', 'ο', 'εξαμηνοεξω', 'γραφειο', 'του', 'κδιαλυνα'] 
+
+63       Days took:  11 
+ Common Words:  ['εφαρμογες'] 
+ Number of common letters:  9 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [28, 6, 2013] 
+ ['μετρησεις', 'εφαρμογες', 'υψηλων', 'τασεων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ', 'αιθ'] 
+ ['διαδικτυο', 'κ', 'εφαρμογες', 'site', 'httpcoursescnntuagrcourseviewphpidκαι', 'εδω', 'pdf', 'dfarmogesiounpdf'] 
+
+64       Days took:  154 
+ Common Words:  ['συστηματα'] 
+ Number of common letters:  9 
+ Date of exam:  [25, 6, 2013] 
+ Date of grades release:  [29, 11, 2013] 
+ ['μη', 'γραμμικα', 'συστηματα', 'ελεγχου', 'εφαρμογες', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['συστηματα', 'μυστο', 'site', 'βαθμολογια', 'κανονικης', 'περιοδου', 'θερινη', 'εξεταστικηhttpcoursesmicrolabntuagrcourseviewphpidκαι'] 
+
+65       Days took:  24 
+ Common Words:  ['συστηματα'] 
+ Number of common letters:  9 
+ Date of exam:  [11, 7, 2013] 
+ Date of grades release:  [5, 8, 2013] 
+ ['συστηματα', 'ιοικησης', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['συστηματα', 'διοικησης', 'βαθμολογιασυστηματα', 'διοικησης', 'july', 'pdf', 'μεταφορτωθηκε'] 
+
+66       Days took:  31 
+ Common Words:  ['ημιαγωγων'] 
+ Number of common letters:  9 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['ιαταξεις', 'ημιαγωγων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['διαταξεις', 'ημιαγωγων', 'mycourses', 'τελικοςβαθμοςδιαταξειςημιαγωγωνxlsx', 'μεταφορτωθηκε', 'τελικοςβαθμοςδιαταξειςημιαγωγωνpdf', 'μεταφορτωθηκε'] 
+
+67       Days took:  23 
+ Common Words:  ['κυκλωματα'] 
+ Number of common letters:  9 
+ Date of exam:  [25, 6, 2013] 
+ Date of grades release:  [18, 7, 2013] 
+ ['εισαγωγη', 'κυκλωματα', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['αποτελεσματα', 'κυκλωματα', 'φραγκος', 'forumshmmygrτα', 'ειχαν', 'ανεβασμενα', 'σε', 'jpg'] 
+
+68       Days took:  54 
+ Common Words:  ['στοιχεια'] 
+ Number of common letters:  8 
+ Date of exam:  [3, 7, 2013] 
+ Date of grades release:  [27, 8, 2013] 
+ ['μικροκυματικα', 'στοιχεια', 'πηγες', 'ν', 'κτ', 'ηλεκτρ', 'αιθ'] 
+ ['αγγλικα', 'ου', 'φοιτητικα', 'στοιχεια'] 
+
+69       Days took:  17 
+ Common Words:  ['εκτιμηση'] 
+ Number of common letters:  8 
+ Date of exam:  [28, 6, 2013] 
+ Date of grades release:  [15, 7, 2013] 
+ ['ιαμορφωσηφωραση', 'εκτιμηση', 'σηματων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['διαμορφωση', 'φωραση', 'εκτιμηση', 'σηματωντης', 'δ', 'ο', 'εξαμηνοστο', 'site'] 
+
+70       Days took:  91 
+ Common Words:  ['σχεδιαση'] 
+ Number of common letters:  8 
+ Date of exam:  [17, 6, 2013] 
+ Date of grades release:  [18, 9, 2013] 
+ ['σχεδιαση', 'συστηματων', 'αυτοματου', 'ελεγχου', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['σχεδιαση', 'σαε', 'ο', 'εξαμηνου', 'ροη', 'σ', 'ανεβαζω', 'σελιδα'] 
+
+71       Days took:  34 
+ Common Words:  ['τεχνικες'] 
+ Number of common letters:  8 
+ Date of exam:  [25, 6, 2013] 
+ Date of grades release:  [29, 7, 2013] 
+ ['τεχνικες', 'προβλεψεων', 'ν', 'κτ', 'ηλεκτρ', 'αμφ'] 
+ ['τεχνικες', 'βελτιστοποιησης', 'σ', 'εξω', 'γραφειο', 'του', 'μαρατουsorry', 'δεν'] 
+
