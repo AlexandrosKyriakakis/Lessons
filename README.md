@@ -237,7 +237,7 @@ def Aux_Series (lista):
 
 ```
 
-The naive way to do this is by adding n times the latest element and n/2 the second lates etc.
+The naive way to do this is by adding n times the latest element and n/2 the second latest etc.
 
 
 ![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyriakakis/Lessons/master/Images/Without_Randomize.png)
