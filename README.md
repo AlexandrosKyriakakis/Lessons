@@ -1,6 +1,6 @@
 # Lessons Schedule
 
-Lessons Schedule is a project to calculate the expectation dates of lessons' grades release at Electrical and Computer Engineering department o National Technical Univercity of Athens. This Project contains implementation of Web Scraping, Probabilities and Randomized Algorithms.
+Lessons Schedule is a project that can be used to calculate the expected release dates of all lessons grades at Electrical and Computer Engineering department o National Technical Univercity of Athens. This Project contains implementation of Web Scraping, Probabilities and Randomized Algorithms.
 
 ## Web Scraping
 
