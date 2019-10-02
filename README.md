@@ -247,7 +247,7 @@ But instead I took the values taking a normal random variable with mean on the c
 
 ![Database for Winter exams](https://raw.githubusercontent.com/AlexandrosKyriakakis/Lessons/master/Images/With_Randomize.png)
 
-So we following these steps I calculated the Mean Values and the STD's.
+So following these steps I calculated the Mean Values and the STD's.
 
 ## Web Page
 
