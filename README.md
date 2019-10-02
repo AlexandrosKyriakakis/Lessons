@@ -146,7 +146,7 @@ def Normalize (Input_String):
 
 ## Algorithm of matching values in pdf with values in posts
 
-Finaly, I matched the values uning an O(n^3) algorithm. At first I parse all the excel contents through all the post contents. For every common word I catch the number of common letters and then I sort the matched list based on the cardinality of common letters. Then I consider that the match with the most common letters is valid, and I remove the values from both lists. In the end I repeat this idea n times until all values get a match.
+Finaly, I matched the values using an O(n^3) algorithm. At first I parse all the excel contents through all the post contents. For every common word I catch the number of common letters and then I sort the matched list based on the cardinality of common letters. Then I consider that the match with the most common letters is valid, and I remove the values from both lists. In the end I repeat this idea n times until all values get a match.
 
 ```python
 #For a lesson search a post for common words and returns the number of letters in common words 
